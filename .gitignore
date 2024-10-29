@@ -1,3 +1,4 @@
 dataset_dnwld.py
 covid_dataset.csv
 covid_dataset_preprocessed.csv
+/data
