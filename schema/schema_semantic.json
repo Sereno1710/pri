@@ -1,0 +1,65 @@
+{
+	"add-field-type": [
+        {
+            "name":"title",
+            "class":"solr.TextField",
+            "indexAnalyzer":{
+                "tokenizer":{
+                    "class":"solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
+                    {"class":"solr.LowerCaseFilterFactory"}
+                ]
+            },
+            "queryAnalyzer":{
+                "tokenizer":{
+                    "class":"solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
+                    {"class":"solr.LowerCaseFilterFactory"}
+                ]
+            }
+        },
+        {
+            "name": "abstract",
+            "class": "solr.TextField",
+            "indexAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters": [
+                    {"class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": true},
+                    {"class": "solr.LowerCaseFilterFactory"}
+                ]
+            },
+            "queryAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters": [
+                    {"class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": true},
+                    {"class": "solr.LowerCaseFilterFactory"}
+                ]
+            }
+        }
+    ],
+    "add-field": [
+        {
+            "name": "title",
+            "type": "title",
+            "indexed": true
+        },
+        {
+            "name": "abstract",
+            "type": "abstract",
+            "indexed": true
+        },
+        {
+            "name": "date",
+            "type": "string",
+            "indexed": true
+        }
+    ]
+}

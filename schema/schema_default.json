@@ -1,0 +1,21 @@
+{
+	"add-field-type": [
+    ],
+    "add-field": [
+        {
+            "name": "title",
+            "type": "title",
+            "indexed": true
+        },
+        {
+            "name": "abstract",
+            "type": "abstract",
+            "indexed": true
+        },
+        {
+            "name": "date",
+            "type": "string",
+            "indexed": true
+        }
+    ]
+}
