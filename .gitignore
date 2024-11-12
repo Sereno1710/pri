@@ -1,5 +1,5 @@
 dataset_dnwld.py
 covid_dataset.csv
 covid_dataset_preprocessed.csv
-/data
-updated_cord-19.json
+/data/cord-19.json
+/data/updated_cord-19.json
