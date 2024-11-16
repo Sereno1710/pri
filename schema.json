@@ -1,0 +1,72 @@
+{
+    "add-field-type": [
+        {
+            "name": "text_general",
+            "class": "solr.TextField",
+            "indexAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters": [
+                    { "class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": true },
+                    { "class": "solr.LowerCaseFilterFactory" }
+                ]
+            },
+            "queryAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters": [
+                    { "class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": true },
+                    { "class": "solr.LowerCaseFilterFactory" }
+                ]
+            }
+        },
+        {
+            "name": "dateField",
+            "class": "solr.DatePointField"
+        },
+        {
+            "name": "stringField",
+            "class": "solr.StrField"
+        }
+    ],
+    "add-field": [
+        {
+            "name": "doc_id",
+            "type": "stringField",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "title",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "doi",
+            "type": "stringField",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "date",
+            "type": "dateField",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "abstract",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "id",
+            "type": "stringField",
+            "indexed": true,
+            "stored": true
+        }
+    ]
+}

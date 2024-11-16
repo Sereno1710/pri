@@ -43,7 +43,15 @@
                     {"class": "solr.LowerCaseFilterFactory"}
                 ]
             }
+        },
+        {
+            "name": "courseVector",
+            "class": "solr.DenseVectorField",
+            "vectorDimension": 384,
+            "similarityFunction": "cosine",
+            "knnAlgorithm": "hnsw"
         }
+
     ],
     "add-field": [
         {
@@ -60,6 +68,13 @@
             "name": "date",
             "type": "string",
             "indexed": true
+        },
+        {
+            "name": "vector",
+            "type": "courseVector",
+            "indexed": true,
+            "stored": true
         }
+
     ]
 }
