@@ -1,6 +1,8 @@
-docker run --name pri_solr -d -p 8983:8983 -v"$(pwd)":/data solr
+docker run --name pri_solr -d -p 8983:8983 -v"$(pwd)\data":/data solr
 
 sleep 3
+
+docker exec pri_solr solr delete_core -c covid
 
 docker exec pri_solr solr create_core -c covid
 
