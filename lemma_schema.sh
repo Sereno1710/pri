@@ -1,6 +1,8 @@
 #!/bin/bash
-
+#Windows 
 docker run --name pri_solr -d -p 8983:8983 -v"$(pwd)\data":/data solr
+#Linux
+docker run --name pri_solr -d -p 8983:8983 -v"$(pwd)/data":/data solr
 
 sleep 3
 

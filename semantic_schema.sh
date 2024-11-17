@@ -1,7 +1,10 @@
 #!/bin/bash
 python3 query_embeddings.py < cord-19.json > updated_cord-19.json
 
+#Windows 
 docker run --name pri_solr -d -p 8983:8983 -v"$(pwd)\data":/data solr
+#Linux
+docker run --name pri_solr -d -p 8983:8983 -v"$(pwd)/data":/data solr
 
 sleep 3
 
