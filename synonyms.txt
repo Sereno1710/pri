@@ -1298,7 +1298,7 @@ monoclonal, monoclonal_antibody
 rhesus, macaca_mulatta, rhesus_monkey
 macaques, macaque
 guinea, dago, french_guinea, ginzo, greaseball, guinea_fowl, numida_meleagris, republic_of_guinea, wop
-pigs, bull, cop, copper, devour, farrow, fuzz, grunter, guttle, hog, pig, pig_bed, pig_it, raven, slob, sloven, slovenly_person, squealer, sus_scrofa, swine
+pigs, bull, cop, copper, devour, farrow, fuzz, grunter, guttle, hog, pig, pig_bed, pig_it, raven, slob, sloven, slovenly_person, squealer, sus_scrofa
 animal, animate_being, beast, brute, carnal, creature, fauna, fleshly, sensual
 inability, unfitness
 escape, break_away, break_loose, bunk, dodging, elude, escape_cock, escape_valve, escapism, evasion, flight, fly_the_coop, get_away, get_by, get_off, get_out, head_for_the_hills, hightail_it, lam, leak, leakage, miss, outflow, relief_valve, run, run_away, safety_valve, scarper, scat, take_to_the_woods, turn_tail
@@ -8697,12 +8697,6 @@ ascendance, ascendancy, ascendence, ascendency, control, dominance
 superpower, great_power, major_power, power, world_power
 ambition, ambitiousness, aspiration, dream
 insecure, unsafe
-nog, peg
-van, avant-garde, caravan, new_wave, vanguard
-te, atomic_number_52, si, tellurium, ti
-dat, digital_audiotape
-dit, dot
-controles, ascertain, assure, check, command, contain, control, curb, ensure, hold, hold_in, insure, keep_in_line, manipulate, master, moderate, operate, see, see_to_it, verify
 equipments, equipment
 transcriptions, arrangement, arranging, recording, transcription, written_text
 uniform, consistent, undifferentiated, unvarying
@@ -8852,8 +8846,6 @@ toddlers, bambino, toddler, tot, yearling
 parallels, analog, analogue, collimate, duplicate, latitude, line_of_latitude, parallel, parallel_of_latitude, twin
 menstruation, catamenia, flow, menses, menstruum, period
 wayside, roadside
-au, astronomical_unit, atomic_number_79, gold
-ces, atomic_number_58, ce, cerium
 quarantines, quarantine
 wars, state_of_war, war, warfare
 constellations, configuration, constellation
@@ -8865,7 +8857,6 @@ transudates, transudate, transudation
 paediatricians, baby_doctor, paediatrician, pediatrician, pediatrist
 hematologist, haematologist
 stenoses, stenosis, stricture
-oder, oder_river
 fistfight, fisticuffs, slugfest
 sperms, sperm, sperm_cell, spermatozoan, spermatozoon
 pinpoint, nail, speck
@@ -8973,11 +8964,6 @@ stand, abide, bandstand, base, bear, brook, digest, endure, fend, outdoor_stage,
 minuscule, little, lower-case_letter, lowercase, miniscule, minuscular, small, small_letter
 supposition, assumption, conjecture, guess, hypothesis, speculation, supposal, surmisal, surmise
 visitor, visitant
-tut, tsk, tut-tut
-mit, massachusetts_institute_of_technology
-hat, chapeau, lid
-zu, zubird
-aus, astronomical_unit, atomic_number_79, au, gold
 disincentives, deterrence, disincentive
 professional, master, pro, professional_person
 spirals, coil, corkscrew, gyrate, helix, spiral, volute, whorl
@@ -9021,7 +9007,6 @@ vertices, acme, apex, peak, vertex
 scanty, bare, pantie, panty, spare, step-in
 assault, assail, attack, dishonor, dishonour, lash_out, outrage, rape, ravish, ravishment, round, set_on, snipe, violate, violation
 confluent, affluent, feeder, merging, tributary
-gilt, aureate, begild, engild, gild, gilded, gilding, gold, golden
 scholars, assimilator, bookman, learner, scholar, scholarly_person, student
 anticonvulsant, anticonvulsant_drug, antiepileptic, antiepileptic_drug
 outline, abstract, adumbrate, delineate, draft, limn, lineation, precis, schema, scheme, sketch, synopsis
@@ -9243,12 +9228,6 @@ substratum, substrate
 sequencer, sequenator
 fulfillment, fulfilment
 infrequency, rareness, rarity
-el, alt, altitude, elevated, elevated_railroad, elevated_railway, elevation, overhead_railway
-las, atomic_number_57, la, lah, lanthanum, louisiana, pelican_state
-generales, general
-gran, grandma, grandmother, grannie, granny, nan, nanna
-la, atomic_number_57, lah, lanthanum, louisiana, pelican_state
-durante, jimmy_durante
 crevice, chap, cleft, crack, cranny, fissure, scissure
 slopes, gradient, incline, pitch, side, slop, slope, slosh, spill, splash, splatter, splosh, squelch, squish, swill
 pointers, arrow, cursor, pointer, spanish_pointer
@@ -9326,6 +9305,7 @@ onsets, attack, oncoming, onrush, onset, onslaught
 precipitates, come_down, fall, precipitate
 high-power, high-energy, high-octane, high-powered, high-voltage
 lozenges, lozenge, pill, tab, tablet
+van, avant-garde, caravan, new_wave, vanguard
 lactobacilli, lactobacillus
 shuttle, bird, birdie, shuttlecock
 competitor, challenger, competition, contender, rival
@@ -9376,9 +9356,6 @@ advices, advice
 isolating, insulate, isolate, keep_apart, sequester, sequestrate, set_apart
 conversions, changeover, conversion, rebirth, spiritual_rebirth, transition
 integer, whole_number
-ab, abdominal, abdominal_muscle, artium_baccalaurens, av, ba, bachelor_of_arts, group_ab, type_ab
-als, al, alabama, aluminium, aluminum, amyotrophic_lateral_sclerosis, atomic_number_13, camellia_state, heart_of_dixie, lou_gehrig's_disease
-es, atomic_number_99, due_east, e, east, eastward, einsteinium, tocopherol, vitamin_e
 anticholinergic, anticholinergic_drug
 resort, fall_back, hangout, haunt, holiday_resort, recourse, recur, refuge, repair, resort_hotel, stamping_ground
 appellations, appellation, appellative, denomination, designation
@@ -9572,7 +9549,6 @@ lynxes, catamount, lynx
 fissures, chap, cleft, crack, cranny, crevice, fissure, scissure
 protest, dissent, objection, protestation, resist
 diarrhoeic, diarrheal, diarrheic, diarrhetic, diarrhoeal, diarrhoetic
-dass, coney, cony, das, dassie, hyrax
 actuation, propulsion
 thinner, diluent, dilutant, flimsy, fragile, lean, slender, slight, sparse, tenuous, thin
 gynaecologists, gynaecologist, gynecologist, woman's_doctor
@@ -9749,9 +9725,6 @@ latencies, latency, latent_period, reaction_time, response_time, rotational_late
 rhino, rhinoceros
 monoclonals, monoclonal, monoclonal_antibody
 braking, brake
-canards, canard
-poulets, chicken, poulet, volaille
-pas, atomic_number_91, dad, dada, daddy, keystone_state, p.a., p.a._system, pa, pa_system, papa, pappa, pascal, pennsylvania, pop, protactinium, protoactinium, public_address_system
 quadrant, quarter-circle
 sharps, sharp
 neuropile, neuropil
@@ -9760,9 +9733,6 @@ analogies, analogy, doctrine_of_analogy
 grocery, food_market, foodstuff, grocery_store, market
 catchments, catchment
 soils, begrime, bemire, colly, dirt, dirty, filth, grease, grime, ground, grunge, land, soil, stain, territory
-les, le, lupus_erythematosus
-toutes, blow, bluster, boast, brag, gas, gasconade, shoot_a_line, swash, tout, vaunt
-le, lupus_erythematosus
 thrusts, drive, driving_force, force, hurl, hurtle, jab, jabbing, knife_thrust, lunge, pierce, poke, poking, push, push_up, shove, squeeze, stab, stuff, throw, thrust, thrusting
 mountains, batch, deal, flock, good_deal, great_deal, hatful, heap, lot, mass, mess, mickle, mint, mount, mountain, muckle, passel, peck, pile, plenty, pot, quite_a_little, raft, sight, slew, spate, stack, tidy_sum, wad
 kid, banter, chaff, child, fry, jolly, josh, kidskin, kyd, minor, nestling, nipper, pull_the_leg_of, shaver, small_fry, thomas_kid, thomas_kyd, tiddler, tike, tyke, youngster
@@ -9927,19 +9897,6 @@ disbursement, disbursal, expense, outlay, spending
 grants, accord, allot, allow, assignment, award, cary_grant, cede, concede, concession, deed_over, duncan_grant, duncan_james_corrow_grant, give, grant, hiram_ulysses_grant, president_grant, subsidisation, subsidization, ulysses_grant, ulysses_s._grant, ulysses_simpson_grant, yield
 loans, lend, loan, loanword
 revelation, apocalypse, book_of_revelation, disclosure, divine_revelation, revealing, revelation_of_saint_john_the_divine
-ripe, advanced, good, mature, right
-husk, chaff, shell, shuck, stalk, straw, stubble
-lemurs, lemur
-husks, chaff, husk, shell, shuck, stalk, straw, stubble
-guild, club, gild, lodge, order, social_club, society
-resumes, curriculum_vitae, cv, re-start, restart, resume, sketch, sum_up, summarise, summarize, survey, take_up
-porte, sublime_porte
-sur, tyre
-par, equality, equation, equivalence
-graines, grain, granulate, ingrain
-sombre, drab, melancholy, sober, somber
-mince, moderate, soften
-plantes, constitute, embed, engraft, establish, found, imbed, implant, institute, plant, set
 holder, bearer
 refining, complicate, down, elaborate, fine-tune, polish, purification, rarify, rectify, refine, refinement
 interspecific, interspecies
@@ -9981,8 +9938,17 @@ precipitant, hasty, overhasty, precipitate, precipitous
 graphics, art, artwork, computer_graphic, graphic, nontextual_matter
 subscript, inferior
 derives, come, deduce, deduct, derive, descend, educe, gain, infer
+au, astronomical_unit, atomic_number_79, gold
+la, atomic_number_57, lah, lanthanum, louisiana, pelican_state
+par, equality, equation, equivalence
+pas, atomic_number_91, dad, dada, daddy, keystone_state, p.a., p.a._system, pa, pa_system, papa, pappa, pascal, pennsylvania, pop, protactinium, protoactinium, public_address_system
+ces, atomic_number_58, ce, cerium
 affections, affection, affectionateness, fondness, heart, philia, tenderness, warmheartedness, warmness
 das, coney, cony, da, dassie, district_attorney, hyrax
+als, al, alabama, aluminium, aluminum, amyotrophic_lateral_sclerosis, atomic_number_13, camellia_state, heart_of_dixie, lou_gehrig's_disease
+dass, coney, cony, das, dassie, hyrax
+el, alt, altitude, elevated, elevated_railroad, elevated_railway, elevation, overhead_railway
+es, atomic_number_99, due_east, e, east, eastward, einsteinium, tocopherol, vitamin_e
 solo, alone, unaccompanied
 fosters, foster, further, nurture, stephen_collins_foster, stephen_foster
 isopropanol, isopropyl_alcohol
@@ -9992,15 +9958,6 @@ alligator, gator
 flag, droop, ease_off, ease_up, flagstone, fleur-de-lis, iris, masthead, pin, sag, signal_flag, slacken_off, swag, sword_lily
 recharge, reload
 ha, hour_angle
-anomaly, anomalousness, unusual_person
-cas, atomic_number_20, ca, calcium, calif., california, golden_state
-bras, bandeau, bra, brassiere
-ce, atomic_number_58, c.e., cerium, common_era
-hone, perfect
-vier, 6, half-dozen, half_dozen, six, vi
-en, nut
-sin, blunder, boob, drop_the_ball, goof, hell, sine, sinfulness, sinning, transgress, trespass, wickedness
-padres, father, holy_joe, military_chaplain, padre, sky_pilot
 published, bring_out, issue, print, promulgated, publish, put_out, release, write
 transects, transect
 weed, dope, gage, grass, green_goddess, locoweed, mary_jane, mourning_band, pot, sens, sess, skunk, smoke
@@ -10073,9 +10030,6 @@ bus, autobus, bus_topology, busbar, charabanc, coach, double-decker, heap, jalop
 scheduling, programing, programming, schedule
 concluding, close, conclude, final, last, reason, reason_out, resolve, terminal
 remarks, comment, input, mention, note, notice, observe, point_out, remark
-kennels, dog_house, doghouse, kennel
-ans, an, associate_in_nursing, autonomic_nervous_system
-porc, pork
 affine, affinal
 grow, acquire, arise, develop, farm, get, maturate, mature, originate, produce, raise, rise, spring_up, turn, uprise
 burrows, burrow, tunnel
@@ -10083,8 +10037,6 @@ northward, due_north, n, north, northbound, northerly, northwards
 southward, due_south, s, south, southbound, southerly, southwards
 subtle, elusive, insidious, pernicious
 lizard, lounge_lizard
-chats, chaffer, chat, chatter, chew_the_fat, chit-chat, chitchat, claver, confab, confabulate, confabulation, gossip, jaw, natter, new_world_chat, old_world_chat, schmoose, schmooze, shoot_the_breeze, visit
-il, 49, forty-nine, illinois, land_of_lincoln, prairie_state
 spinach, prickly-seeded_spinach, spinach_plant, spinacia_oleracea
 chlorophytes, chlorophyte, green_algae
 twig, branchlet, catch_on, cotton_on, get_it, get_onto, get_wise, latch_on, sprig, tumble
@@ -10096,10 +10048,6 @@ stringent, rigorous, tight
 bleeds, bleed, hemorrhage, leech, phlebotomise, phlebotomize, run, shed_blood
 haemophilia, bleeder's_disease, hemophilia
 excellent, fantabulous, first-class, splendid
-pons, alice-josephine_pons, lily_pons, pons_varolii
-porcs, porc, pork
-eu, atomic_number_63, common_market, ec, eec, europe, european_community, european_economic_community, european_union, europium
-embargo, trade_embargo, trade_stoppage
 hedge, circumvent, dodge, duck, elude, evade, fudge, hedge_in, hedgerow, hedging, parry, put_off, sidestep, skirt
 zoos, menagerie, zoo, zoological_garden
 spirit, disembodied_spirit, emotional_state, feel, feeling, flavor, flavour, heart, inspirit, intent, life, liveliness, look, purport, smell, spirit_up, sprightliness, tone
@@ -10107,8 +10055,6 @@ headwaters, headwater
 tributaries, affluent, confluent, feeder, tributary
 lobata, order_lobata
 assemblage, accumulation, aggregation, assembly, collection, gathering, hookup
-continua, continuum
-ambos, ambo, dais, podium, pulpit, rostrum, soapbox, stump
 skinks, scincid, scincid_lizard, skink
 characterizations, characterisation, characterization, delineation, depiction, enactment, personation, picture, portrayal, word-painting, word_picture
 keratin, ceratin
@@ -10143,6 +10089,7 @@ clutch, batch, clasp, clench, cling_to, clutch_bag, clutch_pedal, clutches, get_
 vertebrae, vertebra
 elongate, elongated, linear, stretch
 veterans, ex-serviceman, old-timer, old_hand, old_stager, oldtimer, stager, vet, veteran, veteran_soldier, warhorse
+pons, alice-josephine_pons, lily_pons, pons_varolii
 keel, careen, lurch, reel, stagger, swag
 primitive, archaic, crude, naive, primitive_person, rude
 flap, beat, dither, flapping, flaps, flutter, fluttering, fuss, pother, roll, tizzy, undulate, wave
@@ -10226,7 +10173,6 @@ compelling, compel, obligate, oblige
 arsenic, arsenic_trioxide, arsenous_anhydride, arsenous_oxide, as, atomic_number_33, ratsbane, white_arsenic
 indoors, inside
 bioassays, bio-assay, bioassay
-muss, genus_mus, mess, messiness, mus, mussiness, tussle
 fence, argue, contend, debate, fence_in, fencing, palisade, surround, wall
 intermixing, blend, immingle, intermingle, intermix
 palms, decoration, handle, laurel_wreath, medal, medallion, palm, palm_tree, ribbon, thenar
@@ -10245,6 +10191,7 @@ divergences, departure, deviation, difference, disagreement, discrepancy, diverg
 anova, analysis_of_variance
 aggressiveness, aggression, belligerence, pugnacity
 duality, dichotomy, wave-particle_duality
+anomaly, anomalousness, unusual_person
 xanthomonads, xanthomonad
 incursion, penetration
 connector, connecter, connection, connective, connexion
@@ -10369,9 +10316,6 @@ hyperglycaemia, hyperglycemia
 sb, antimony, atomic_number_51, bachelor_of_science, bs
 main, briny, chief, independent, master, primary, principal
 tinge, color, colour, distort, hint, jot, mite, pinch, soupcon, speck, tinct, tint, touch, undertone
-bacteriologists, bacteriologist
-durant, will_durant, william_james_durant
-de, delaware, diamond_state, first_state
 ultrasounds, echography, sonography, ultrasonography, ultrasound
 succeeding, bring_home_the_bacon, come_after, come_through, deliver_the_goods, follow, future, next, succeed, win
 amenity, agreeableness
@@ -10464,10 +10408,6 @@ collective, corporate
 guarantee, assure, ensure, guaranty, insure, secure, undertake, vouch, warrant, warrantee, warranty
 heroines, heroine
 zooids, zooid
-testicle, ball, ballock, bollock, egg, nut, orchis, testis
-petites, petite
-titrations, titration
-finales, close, closing_curtain, coda, conclusion, finale, finis, finish, last, stopping_point
 distinctiveness, disparateness, peculiarity, speciality, specialness, specialty
 gingiva, gum
 microfloras, microflora
@@ -10541,6 +10481,7 @@ downslope, declension, declination, decline, declivity, descent, fall
 wipe, pass_over, rub
 floors, ball_over, base, blow_out_of_the_water, coldcock, deck, dump, floor, flooring, knock_down, level, shock, storey, story, take_aback, trading_floor
 mayfly, dayfly, shadfly
+guild, club, gild, lodge, order, social_club, society
 basins, basin, basinful, catchment_area, catchment_basin, drainage_area, drainage_basin, lavatory, river_basin, washbasin, washbowl, washstand, watershed
 karyotypes, karyotype
 flowing, aerodynamic, course, fall, feed, flow, flux, hang, menstruate, run, sleek, streamlined
@@ -10611,7 +10552,6 @@ connectivities, connectivity
 buckling, buckle, clasp, crumple, heave, warp
 voter, elector
 misestimation, miscalculation, misreckoning
-normaler, normal
 bacteremias, bacteremia, bacteriaemia, bacteriemia
 mobilise, call_up, circulate, marshal, mobilize, rally, summon
 speak, address, mouth, talk, utter, verbalise, verbalize
@@ -10995,8 +10935,6 @@ freedoms, exemption, freedom
 physical, forcible, strong-arm
 misusing, abuse, misapply, misuse, pervert
 instabilities, imbalance, instability, unbalance, unstableness
-aller, all
-uns, un, united_nations
 perfectionists, perfectionist
 customer, client
 reworks, make_over, retread, rework
@@ -11084,6 +11022,7 @@ pestilences, canker, pest, pestilence, pestis, plague
 ready, cook, fix, gear_up, make, prepare, quick, set, set_up
 stillbirths, miscarriage, spontaneous_abortion, stillbirth
 gradations, gradation, grade, graduation, step
+sin, blunder, boob, drop_the_ball, goof, hell, sine, sinfulness, sinning, transgress, trespass, wickedness
 mentoring, mentor
 sunshine, cheer, cheerfulness, fair_weather, sun, sunlight, sunniness, temperateness
 cobalt, atomic_number_27, co
@@ -11092,6 +11031,7 @@ diode, crystal_rectifier, junction_rectifier, rectifying_tube, rectifying_valve,
 fisheries, fishery, piscary
 oceanography, oceanology
 won, acquire, advance, bring_home_the_bacon, come_through, deliver_the_goods, gain, gain_ground, get_ahead, make_headway, north_korean_won, pull_ahead, south_korean_won, succeed, win
+kennels, dog_house, doghouse, kennel
 kennel, dog_house, doghouse
 rescheduling, reschedule
 striatum, corpus_striatum, striate_body
@@ -11163,8 +11103,6 @@ valleys, vale, valley
 wavefronts, wave_front, wavefront
 discount, bank_discount, brush_aside, brush_off, deduction, discount_rate, dismiss, disregard, ignore, price_reduction, push_aside, rebate
 cleanup, cleaning, cleansing, cleanup_position, cleanup_spot, killing
-presenter, bestower, conferrer, donor, giver, sponsor
-gastrocnemius, gastrocnemius_muscle
 affiliations, affiliation, association, tie, tie-up
 disclosures, disclosure, revealing, revelation
 collaborator, collaborationist, confederate, cooperator, henchman, pardner, partner, partner_in_crime, quisling
@@ -11196,8 +11134,6 @@ brings, add, bestow, bring, bring_in, contribute, convey, fetch, get, impart, in
 book, account_book, al-qur'an, bible, book_of_account, christian_bible, good_book, hold, holy_scripture, holy_writ, koran, ledger, leger, playscript, quran, record, record_book, reserve, rule_book, script, scripture, volume, word, word_of_god
 zombie, automaton, living_dead, snake_god, zombi, zombi_spirit, zombie_spirit
 exemplar, example, good_example, model
-masques, mask, masque, masquerade, masquerade_party
-travail, childbed, confinement, dig, drudge, effort, elbow_grease, exertion, fag, grind, labor, labour, lying-in, moil, parturiency, sweat, toil
 toys, dally, diddle, fiddle, flirt, miniature, play, plaything, toy, toy_dog
 ran, be_given, black_market, bleed, break_away, bunk, campaign, carry, consort, course, die_hard, draw, endure, escape, execute, extend, feed, flow, fly_the_coop, function, go, guide, head_for_the_hills, hightail_it, hunt, hunt_down, incline, ladder, lam, lead, lean, melt, melt_down, move, operate, pass, persist, play, ply, prevail, race, range, run, run_away, run_for, scarper, scat, take_to_the_woods, tend, track_down, turn_tail, unravel, work
 prioritized, prioritise, prioritize
@@ -11209,11 +11145,6 @@ sequential, consecutive, sequent, serial, successive
 corrects, adjust, castigate, chasten, chastise, compensate, correct, counterbalance, decline, discipline, even_off, even_out, even_up, make_up, objurgate, rectify, redress, right, set, slump, sort_out
 ts, deoxythymidine_monophosphate, liothyronine, metric_ton, mt, t, tetraiodothyronine, thymine, thyroxin, thyroxine, tonne, triiodothyronine
 halt, arrest, block, check, crippled, freeze, game, gimpy, halting, hitch, hold, kibosh, lame, stanch, staunch, stay, stem, stop, stoppage
-recherche, exquisite
-pour, decant, pelt, pour_out, pullulate, rain_buckets, rain_cats_and_dogs, stream, swarm, teem
-groupes, aggroup, group
-fins, 5, break_water, cinque, fin, five, fivesome, flipper, little_phoebe, louver, louvre, pentad, phoebe, quint, quintet, quintuplet, tail_fin, tailfin, v
-revue, review
 categorisation, assortment, categorization, classification, compartmentalisation, compartmentalization, sorting
 confronts, confront, face, face_up, present
 legacy, bequest
@@ -11277,10 +11208,8 @@ cull, pick, pluck, reject
 handshake, handclasp, handshaking, shake
 jabs, dig, jab, jabbing, poke, poking, prod, stab, thrust, thrusting
 collide, clash, jar
-vitals, vital_organ
 shuffle, make, mix, ruffle, scuffle, shamble, shambling, shuffling
 ravages, depredation, desolate, devastate, harry, lay_waste_to, ravage, scourge, waste
-rosa, genus_rosa
 rundown, summation, summing_up
 celebration, festivity, jubilation, solemnisation, solemnization
 vasoconstrictors, pressor, vasoconstrictive, vasoconstrictor
@@ -11314,7 +11243,6 @@ hypotonia, hypotonicity, hypotonus
 sutures, fibrous_joint, surgical_seam, sutura, suture
 contractures, contracture
 tones, chant, feel, feeling, flavor, flavour, inflect, intone, look, modulate, musical_note, note, pure_tone, quality, shade, smell, spirit, step, strengthen, timber, timbre, tincture, tint, tone, tone_of_voice, tone_up, tonicity, tonus, whole_step, whole_tone
-principes, principe
 enrollees, enrollee
 preschools, preschool
 champion, ace, adept, admirer, booster, champ, defend, fighter, friend, genius, hero, hotshot, maven, mavin, paladin, prizewinning, protagonist, sensation, star, superstar, supporter, title-holder, virtuoso, whiz, whizz, wiz, wizard
@@ -11350,11 +11278,6 @@ scintillation, glisten, glister, glitter, sparkle, sparkling, twinkle
 vomit, barf, be_sick, cast, cat, chuck, disgorge, disgorgement, emesis, emetic, honk, nauseant, puke, puking, purge, regorge, regurgitate, regurgitation, retch, sick, spew, spue, throw_up, upchuck, vomit_up, vomiting, vomitive, vomitus
 transposons, jumping_gene, transposon
 put, arrange, assign, cast, commit, couch, frame, invest, lay, order, place, pose, position, put_option, redact, set, set_up
-begin, commence, get, get_down, lead_off, menachem_begin, set_about, set_out, start, start_out
-hoop, basket, basketball_hoop, ring, wicket
-echter, echt, genuine
-mag, magazine
-bod, anatomy, build, chassis, figure, flesh, form, frame, human_body, material_body, physical_body, physique, shape, soma
 footnote, annotate, footer
 therefrom, thence, thereof
 believers, believer, truster, worshiper, worshipper
@@ -11388,7 +11311,6 @@ sentence, condemn, condemnation, conviction, doom, judgment_of_conviction, priso
 quinidine, quinidex, quinora
 apparition, fantasm, phantasm, phantasma, phantom, shadow, specter, spectre
 cumbersomeness, awkwardness, unwieldiness
-twee, dainty, mincing, niminy-piminy, prim
 drop-off, cliff, decrease, drop, falling_off, falloff, lessening, slack, slump
 enquiry, inquiry, interrogation, query, question, research
 cultural, ethnic, ethnical
@@ -11398,8 +11320,6 @@ overviews, overview
 junk, debris, detritus, dust, rubble, scrap, trash
 p.m., post_meridiem
 evening, eve, even, even_out, eventide, flush, level
-dell, dingle
-evince, express, show
 aberrancies, aberrance, aberrancy, aberration, deviance
 serials, serial, serial_publication, series
 insecticides, insect_powder, insecticide
@@ -11426,13 +11346,9 @@ mistletoe, false_mistletoe, loranthus_europaeus, old_world_mistletoe, viscum_alb
 aesthetics, aesthetic, esthetic, esthetics
 bulletins, bulletin
 phenylketonuria, pku
-klein, calvin_klein, calvin_richard_klein, felix_klein, melanie_klein
-goed, become, belong, blend, blend_in, break, break_down, buy_the_farm, cash_in_one's_chips, choke, conk, conk_out, croak, decease, depart, die, drop_dead, endure, exit, expire, extend, fail, fit, function, get, get_going, give-up_the_ghost, give_out, give_way, go, go_away, go_bad, hold_out, hold_up, kick_the_bucket, last, lead, live, live_on, locomote, move, operate, pass, pass_away, perish, plump, pop_off, proceed, rifle, run, run_low, run_short, snuff_it, sound, start, survive, travel, work
 piracy, buccaneering, plagiarisation, plagiarism, plagiarization
 metaphors, metaphor
 literatures, lit, literature
-dal, decaliter, decalitre, dekaliter, dekalitre, dkl
-hun, boche, jerry, kraut, krauthead
 outbursts, blowup, burst, ebullition, effusion, flare-up, gush, outburst, tumultuous_disturbance
 combustion, burning
 purple, empurple, empurpled, imperial, majestic, over-embellished, purpleness, purplish, purpurate, regal, royal, violet
@@ -11446,7 +11362,6 @@ fallacies, fallacy, false_belief
 suspicions, distrust, hunch, intuition, misgiving, mistrust, suspicion, suspiciousness
 nutritionist, dietician, dietitian
 frailer, delicate, fallible, fragile, frail, imperfect, weak
-hem, ahem
 purview, horizon, view
 moving, act, actuate, affect, be_active, displace, go, impress, incite, locomote, make_a_motion, motivate, move, proceed, prompt, propel, run, strike, travel
 waybill, bill_of_lading
@@ -11456,21 +11371,13 @@ consignment, cargo, commitment, committal, freight, lading, load, loading, paylo
 ethnography, descriptive_anthropology
 drawing, absorb, attract, cast, delineate, depict, describe, disembowel, draft, drafting, draftsmanship, drag, draught, draw, draw_and_quarter, draw_in, draw_off, drawing_off, eviscerate, force, get, get_out, guide, imbibe, line, lottery, make, pass, puff, pull, pull_back, pull_in, pull_out, quarter, reap, run, soak_up, sop_up, string, suck, suck_up, take_in, take_out, take_up, thread, tie, trace, withdraw
 actinomycetes, actinomycete
-tipi, teepee, tepee
-un, united_nations
 southwards, due_south, s, south, southerly, southward
 unites, combine, connect, join, link, link_up, merge, unify, unite
 vigor, dynamism, energy, heartiness, muscularity, vigour, vim, zip
-steeds, steed
-weer, bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy, weeny
-eigen, manfred_eigen
-wonder, admiration, curiosity, enquire, inquire, marvel, question, wonderment
 cabins, cabin
 attachments, adherence, adhesion, affixation, attachment, bond, fastening, fond_regard
 reappearance, return
 automata, automaton, golem, robot, zombi, zombie
-medico, doc, doctor, dr., md, medical_student, physician
-mezzo, mezzo-soprano
 stopper, conversation_stopper, plug, show-stopper, showstopper, stopple
 bombings, bombardment, bombing
 shrinking, contract, cringe, flinch, funk, quail, recoil, reduce, shrink, shrinkage, shrivel, shrivel_up, squinch, wince, wither
@@ -11508,11 +11415,8 @@ epicenter, epicentre
 headlines, headline, newspaper_headline
 swath, belt
 dura, dura_mater
-facile, eloquent, fluent, silver, silver-tongued, smooth-spoken
 phenols, carbolic_acid, hydroxybenzene, oxybenzene, phenol, phenylic_acid
 hog, grunter, hogg, hogget, pig, squealer, sus_scrofa
-fort, fort_up, fortify, fortress, garrison
-zit, hickey, pimple
 intruders, interloper, intruder, trespasser
 desquamation, peeling, shedding
 exanthema, exanthem, skin_eruption
@@ -11521,8 +11425,6 @@ tsunamis, tsunami
 creeping, cower, crawl, crawling, creep, cringe, fawn, grovel, mouse, pussyfoot, sneak
 tenet, dogma
 endeavours, attempt, effort, endeavor, endeavour, enterprise, strive, try
-relevanter, relevant
-fester, maturate, suppurate, suppurating_sore
 perfusions, perfusion
 gauges, approximate, bore, caliber, calibre, estimate, gage, gauge, guess, judge, standard_of_measurement
 evacuate, empty, void
@@ -11539,7 +11441,6 @@ restless, uneasy, ungratified, unsatisfied
 splashes, dab, plash, slop, slosh, slush, spatter, spattering, splash, splashing, splatter, splattering, splosh, sprinkle, squelch, squish, stir, swash
 uniforms, uniform
 sixteenth, 16th, one-sixteenth, sixteenth_part
-lingua, clapper, glossa, tongue
 passports, pass, passport, recommendation
 hypersensitivities, hypersensitivity
 tendon, sinew
@@ -11547,11 +11448,6 @@ cinema, celluloid, film, movie_house, movie_theater, movie_theatre, picture_pala
 impression, belief, depression, effect, feeling, imprint, mental_picture, notion, opinion, picture, printing, stamp
 vistas, aspect, panorama, prospect, scene, view, vista
 inflows, inflow, influx
-seine, seine_river
-invasiver, encroaching, incursive, invading, invasive, trespassing
-soms, som
-september, sep, sept
-april, apr
 totality, aggregate, entireness, entirety, integrality, sum, total
 propinquity, proximity
 impinges, encroach, entrench, impinge, infringe, trench
@@ -11590,29 +11486,15 @@ staying, abide, appease, bide, continue, delay, detain, last_out, outride, persi
 scratches, abrasion, boodle, bread, cabbage, cacography, call_off, cancel, chafe, chicken_feed, clams, come_up, dent, dinero, dough, engrave, excise, excoriation, expunge, fray, fret, gelt, grave, incision, inscribe, itch, kale, lettuce, lolly, loot, lucre, mark, moolah, pelf, prick, rub, scar, scrape, scrape_up, scraping, scratch, scratch_line, scratch_up, scratching, scrawl, scribble, scrub, shekels, simoleons, slit, start, starting_line, strike, sugar, wampum
 excrements, body_waste, excrement, excreta, excretion, excretory_product
 standardizations, calibration, normalisation, normalization, standardisation, standardization
-divers, diver, diverse, frogman, loon, plunger, underwater_diver
 decolonization, decolonisation
 fixtures, fastness, fix, fixedness, fixing, fixity, fixture, habitue, mend, mending, regular, repair, reparation, secureness
 exports, export, exportation
 coincidences, co-occurrence, coincidence, concurrence, conjunction, happenstance
 lecturer, lector, reader
-morbilli, measles, rubeola
 saffron, crocus_sativus, orange_yellow, saffron_crocus
-toe, toenail
-minder, baby_minder, babyminder
-perfect, arrant, complete, consummate, double-dyed, everlasting, gross, hone, perfect_tense, perfective, perfective_tense, pure, sodding, staring, stark, thoroughgoing, unadulterated, utter
-heel, blackguard, bounder, cad, dog, hound, list, reheel
-mens, hands, manpower, men, work_force, workforce
-leiden, leyden
-dunner, dun
-vet, ex-serviceman, veteran, veterinarian, veterinary, veterinary_surgeon
-elders, elder, elderberry_bush, senior
 rotifers, rotifer
 pancytopenias, pancytopenia
 trades, barter, business_deal, craft, deal, merchandise, patronage, sell, swap, switch, swop, trade, trade_in, trade_wind
-ins, atomic_number_49, hoosier_state, immigration_and_naturalization_service, in, inch, indiana, indium
-schema, outline, scheme
-prima, leading, star, starring, stellar
 sunlight, sun, sunshine
 basil, basil_of_caesarea, basil_the_great, st._basil, st._basil_the_great, sweet_basil
 volatiles, volatile
@@ -11630,7 +11512,6 @@ outfit, equip, fit, fit_out, getup, kit, rig, turnout
 rudimentary, fundamental, underlying, vestigial
 proclivity, leaning, propensity
 interdependency, interdependence, mutuality
-dieses, diesis, double_dagger, double_obelisk
 tide, lunar_time_period, surge
 vegetal, vegetational, vegetative
 materiality, corporality, corporeality, physicalness
@@ -11643,7 +11524,6 @@ metathesis, double_decomposition, double_decomposition_reaction
 cement, cementum
 objectivity, objectiveness
 philosophers, philosopher
-lange, dorothea_lange
 premisses, assumption, premise, premiss
 reiterative, iterative
 premiss, assumption, premise
@@ -11652,8 +11532,6 @@ cannabis, ganja, hemp, marihuana, marijuana
 sage, sage-green, salvia
 lemon, citrus_limon, gamboge, lemon_tree, lemon_yellow, maize, stinker
 mandarin, beijing_dialect, citrus_reticulata, mandarin_chinese, mandarin_dialect, mandarin_orange, mandarin_orange_tree
-hiv, human_immunodeficiency_virus
-sinds, sind
 planets, major_planet, planet, satellite
 asteroids, asteroid
 comets, comet
@@ -11698,7 +11576,6 @@ phlebotomy, venesection
 autumns, autumn, fall
 lychee, leechee, lichee, lichi, litchee, litchi, litchi_nut
 pulp, flesh, mush, pulp_magazine
-ernst, max_ernst
 centenarians, centenarian
 demographers, demographer, demographist, population_scientist
 gerontologists, geriatrician, gerontologist
@@ -11721,7 +11598,6 @@ reflectance, coefficient_of_reflection, reflection_factor, reflectivity
 kline, franz_joseph_kline, franz_kline
 compressors, compressor
 actives, active, active_agent, active_voice
-negativer, damaging, disconfirming, electronegative, minus, negative, negatively_charged
 diplomats, diplomat, diplomatist
 marriage, man_and_wife, marriage_ceremony, married_couple, matrimony, spousal_relationship, union, wedding, wedlock
 applause, clapping, hand_clapping
@@ -11732,12 +11608,8 @@ journalism, news_media
 apprehension, apprehensiveness, arrest, catch, collar, discernment, dread, misgiving, pinch, savvy, taking_into_custody, understanding
 aware, cognisant, cognizant, mindful
 subsidies, subsidy
-dick, cock, gumshoe, hawkshaw, pecker, peter, prick, putz, shaft, tool
-pleurae, pleura
+eu, atomic_number_63, common_market, ec, eec, europe, european_community, european_economic_community, european_union, europium
 embargoed, embargo
-reflexiver, automatic, reflex, reflexive, self-referent
-dies, atomic_number_66, become_flat, break, break_down, buy_the_farm, cash_in_one's_chips, choke, conk, conk_out, croak, decease, dice, die, die_out, drop_dead, dy, dysprosium, exit, expire, fail, give-up_the_ghost, give_out, give_way, go, go_bad, kick_the_bucket, pall, pass, pass_away, perish, pop_off, snuff_it
-moderner, advanced, forward-looking, innovative, mod, modern, moderne, modernistic, new
 violent, crimson, fierce, red, tearing, trigger-happy, vehement, wild
 executives, administrator, executive, executive_director
 insurers, insurance_company, insurance_firm, insurance_underwriter, insurer, underwriter
@@ -11755,7 +11627,6 @@ commercialisation, commercialization
 commence, begin, embark_on, get, get_down, lead_off, set_about, set_out, start, start_out, start_up
 selling, betray, deal, marketing, merchandising, sell, trade
 terminologies, language, nomenclature, terminology
-augustus, gaius_julius_caesar_octavianus, gaius_octavianus, octavian
 epidemiological, epidemiologic
 addictions, addiction, dependance, dependence, dependency, habituation
 usages, custom, employment, exercise, usage, usance, use, utilisation, utilization
@@ -11774,7 +11645,6 @@ shrieks, pipe, pipe_up, scream, screaming, screech, screeching, shriek, shriekin
 snarls, embrangle, entangle, mat, maze, snap, snarl, snarl_up, tangle
 marsupials, marsupial, pouched_mammal
 fertilizers, fertiliser, fertilizer, plant_food
-met, adjoin, assemble, come_across, conform_to, contact, converge, cope_with, encounter, fill, fit, foregather, forgather, fulfil, fulfill, gather, get_together, match, meet, play, receive, run_across, run_into, satisfy, see, suffer, take_on, touch
 adhesives, adhesive, adhesive_agent, adhesive_material
 leagues, conference, league
 baseball, baseball_game
@@ -11782,8 +11652,6 @@ football, football_game
 giants, behemoth, colossus, giant, giant_star, goliath, heavyweight, hulk, monster, titan, whale
 elevator, lift
 deaf, deafen, indifferent
-auteurs, auteur
-causa, case, cause, lawsuit, suit
 culminates, climax, culminate
 lorazepam, ativan
 pediatrician, baby_doctor, paediatrician, pediatrist
@@ -11835,7 +11703,6 @@ fantasy, fancy, fantasise, fantasize, illusion, phantasy
 jargon, argot, cant, jargoon, lingo, patois, slang, vernacular
 outsider, foreigner
 curators, conservator, curator
-lues, lues_venerea, pox, syph, syphilis
 drinks, beverage, booze, boozing, crapulence, deglutition, drink, drink_in, drinkable, drinking, drunkenness, fuddle, imbibe, pledge, potable, salute, swallow, toast, tope, wassail
 fraud, dupery, fake, faker, fraudulence, hoax, humbug, imposter, impostor, pretender, pseud, pseudo, put-on, role_player, sham, shammer
 adulteration, debasement
@@ -11847,7 +11714,6 @@ fodder, cannon_fodder, fresh_fish
 skies, flip, pitch, ski, sky, toss
 viscera, entrails, innards
 contraceptive, antifertility, birth_control_device, contraceptive_device, preventative, preventive, prophylactic, prophylactic_device
-ventriculi, gastric_mill, gizzard, ventriculus
 transgression, evildoing
 environs, border, environ, environment, purlieu, ring, skirt, surround, surroundings
 controlling, ascertain, assure, check, command, contain, control, curb, ensure, hold, hold_in, insure, keep_in_line, manipulate, master, moderate, operate, see, see_to_it, verify
@@ -11898,10 +11764,7 @@ trophoblasts, trophoblast
 heels, blackguard, bounder, cad, dog, heel, hound, list, reheel
 accentuation, accenting, emphasizing
 militaries, armed_forces, armed_services, military, military_machine, war_machine
-ai, army_intelligence, artificial_insemination, artificial_intelligence, bradypus_tridactylus, three-toed_sloth
 ensuing, ensue, result
-samen, albizia_saman, monkey_pod, monkeypod, rain_tree, saman, zaman, zamang
-steward, custodian, flight_attendant, keeper, shop_steward
 bicentenary, bicentennial
 naturalist, natural_scientist
 pit, cavity, colliery, endocarp, fossa, hell, infernal_region, inferno, mark, match, nether_region, oppose, orchestra_pit, perdition, pitfall, play_off, pock, quarry, scar, stone, stone_pit
@@ -11912,6 +11775,7 @@ genuineness, authenticity, legitimacy
 fake, bastard, bogus, bull, bullshit, cook, counterfeit, faker, false, falsify, faux, forge, fraud, fudge, imitation, imposter, impostor, juke, manipulate, misrepresent, phoney, phony, postiche, pretender, pseud, pseudo, role_player, sham, shammer, simulated, talk_through_one's_hat, wangle
 headline, newspaper_headline
 jong, erica_jong
+un, united_nations
 ilk, like
 biography, life, life_history, life_story
 flare-up, burst, outburst
@@ -11958,7 +11822,6 @@ parcel, bundle, package, packet, parcel_of_land, piece_of_ground, piece_of_land,
 gametes, gamete
 coaching, coach, coaching_job, train
 ambivalence, ambivalency
-viraler, viral
 zoologists, animal_scientist, zoologist
 aboriginal, abo, aborigine, australian_aborigine, indigen, indigene, native, native_australian, primaeval, primal, primeval, primordial
 connects, associate, colligate, connect, get_in_touch, join, link, link_up, plug_in, plug_into, relate, tie, tie_in, touch_base, unite
@@ -11971,7 +11834,6 @@ gates, bill_gates, gate, logic_gate, william_henry_gates
 scarecrows, bird-scarer, scarecrow, scarer, straw_man, strawman
 dermatologic, dermatological
 raising, advance, arouse, breeding, bring_up, bringing_up, call_down, call_forth, conjure, conjure_up, elevate, elevation, elicit, enhance, enkindle, erect, evoke, farm, fire, fosterage, fostering, get_up, grow, heighten, invoke, kick_upstairs, kindle, leaven, levy, lift, nurture, parent, produce, promote, prove, provoke, put_forward, put_up, raise, rear, rearing, recruit, resurrect, set_up, stir, upbringing, upgrade, upraise
-stadium, arena, bowl, sports_stadium
 recognizes, accredit, acknowledge, agnise, agnize, discern, distinguish, greet, know, make_out, pick_out, realise, realize, recognise, recognize, spot, tell_apart
 drugstore, apothecary's_shop, chemist's, chemist's_shop, pharmacy
 beverage, drink, drinkable, potable
@@ -11983,7 +11845,6 @@ spiral, coil, coiling, corkscrew, gyrate, helical, helix, spiraling, turbinate, 
 sourcing, source
 breach, break, falling_out, gap, go_against, infract, offend, rift, rupture, severance, transgress, violate
 rs, gas_constant, r, radius, roentgen, universal_gas_constant
-gar, billfish, garfish, garpike, lepisosteus_osseus, needlefish
 arbiter, arbitrator, supreme_authority, umpire
 predecessors, forerunner, harbinger, herald, precursor, predecessor
 encyclopaedist, encyclopedist
@@ -11996,8 +11857,6 @@ mentor, wise_man
 honour, abide_by, accolade, award, honor, laurels, observe, pureness, purity, respect, reward
 griseofulvin, fulvicin
 revenues, gross, receipts, revenue, tax_income, tax_revenue, taxation
-tale, fib, narration, narrative, story, taradiddle, tarradiddle
-nun, conical_buoy, nun_buoy
 sicker, brainsick, crazy, demented, disgusted, disturbed, fed_up, ghastly, grim, grisly, gruesome, ill, macabre, mad, nauseated, nauseous, pale, pallid, queasy, sick, sick_of, sickish, tired_of, unbalanced, unhinged, wan
 meld, basket_rummy, blend, canasta, coalesce, combine, commingle, conflate, flux, fuse, immix, melt, merge, mix
 cliques, camp, clique, coterie, ingroup, inner_circle, pack
@@ -12045,7 +11904,6 @@ massacre, butchery, carnage, mass_murder, mow_down, slaughter
 bullet, bullet_train, fastball, heater, hummer, slug, smoke
 biodefence, biodefense, biological_defence, biological_defense
 cervids, cervid, deer
-globaler, ball-shaped, global, globose, globular, orbicular, planetary, spheric, spherical, world, world-wide, worldwide
 pyrogens, pyrectic, pyrogen
 pyrogen, pyrectic
 clearest, absolved, clean, clean-cut, clear, clear-cut, cleared, decipherable, exculpated, exonerated, light, open, percipient, readable, unclouded, unmortgaged, vindicated, well-defined
@@ -12079,8 +11937,6 @@ custody, detainment, detention, hands, hold
 dullness, bluntness, obtuseness
 perceiver, beholder, observer, percipient
 prejudices, bias, preconception, prejudice, prepossess
-stark, arrant, austere, bare, barren, bleak, blunt, complete, consummate, crude, desolate, double-dyed, everlasting, gross, perfect, pure, severe, sodding, staring, stern, thoroughgoing, unadulterated, utter
-anal, anal_retentive
 disconnections, disconnect, disconnectedness, disconnection, disjunction, disjuncture, gulf
 summits, acme, breast, crest, crown, elevation, height, meridian, peak, pinnacle, summit, summit_meeting, superlative, tip, tiptop, top
 desalination, desalinisation, desalinization
@@ -12095,7 +11951,6 @@ setback, black_eye, blow, reversal, reverse
 engagements, appointment, battle, betrothal, booking, conflict, date, employment, engagement, fight, interlocking, involution, involvement, mesh, meshing, participation, troth
 ag, atomic_number_47, silver
 emigration, expatriation, out-migration
-reeds, beating-reed_instrument, john_reed, reed, reed_instrument, vibrating_reed, walter_reed
 butchering, butcher, butchery, slaughter
 butcher, blunderer, botcher, bumbler, bungler, butch, fuckup, fumbler, macho, meatman, sad_sack, slaughter, slaughterer, stumbler
 napkins, diaper, napkin, nappy, serviette, table_napkin
@@ -12109,8 +11964,6 @@ xylenes, xylene, xylol
 decorating, adorn, beautify, deck, decorate, dress, embellish, grace, ornament
 refurbishing, freshen_up, refurbish, renovate
 cleaners, cleaner, cleanser, cleansing_agent, dry_cleaner, dry_cleaners
-gab, causerie, chin-wag, chin-wagging, chin_wag, chin_wagging, chit-chat, chit_chat, chitchat, gabfest, gossip, small_talk, tittle-tattle, yak
-nationaler, home, interior, internal, national
 saquinavir, invirase
 echolocation, echo_sounding
 asleep, at_peace, at_rest, benumbed, deceased, departed, gone, numb
@@ -12190,15 +12043,12 @@ recover, convalesce, find, go_back, reclaim, recoup, recuperate, regain, retriev
 tenets, dogma, tenet
 exanthems, exanthem, exanthema, skin_eruption
 pertains, appertain, bear_on, come_to, concern, have-to_doe_with, pertain, refer, relate, touch, touch_on
-sulla, french_honeysuckle, hedysarum_coronarium, lucius_cornelius_sulla_felix
 exporting, export, exportation
 orchestrate, direct, engineer, mastermind, organise, organize
 heath, heathland
 rubor, inflammation, redness
 dolor, dolour
 smoker, smoking_car, smoking_carriage, smoking_compartment, stag_party, tobacco_user
-od, doctor_of_optometry, oculus_dexter
-lat, latissimus_dorsi
 knife, stab, tongue
 mentors, mentor, wise_man
 covering, address, application, breed, brood, coating, compensate, comprehend, continue, cover, cover_up, cross, cut_across, cut_through, deal, embrace, encompass, enshroud, extend, get_across, get_over, handle, hatch, hide, incubate, insure, masking, natural_covering, overcompensate, overlay, pass_over, plow, report, screening, shroud, spread_over, track, traverse, treat, underwrite, wrap_up
@@ -12212,7 +12062,6 @@ strikes, affect, assume, attain, bang, chance_on, chance_upon, coin, collide_wit
 militates, militate
 mind-set, mentality, mindset, outlook
 reformation, protestant_reformation, reclamation
-valider, valid
 disordering, cark, disarray, disorder, disquiet, distract, perturb, trouble, unhinge
 reclaiming, domesticate, domesticise, domesticize, reclaim, recover, rectify, reform, regenerate, repossess, tame
 miscellany, assortment, florilegium, garland, miscellanea, mixed_bag, mixture, motley, potpourri, salmagundi, smorgasbord, variety
@@ -12279,8 +12128,6 @@ monsters, behemoth, colossus, demon, devil, fiend, freak, giant, goliath, lusus_
 ghouls, body_snatcher, ghoul, graverobber
 chilliness, coldness, coolness, frigidity, frigidness, iciness, nip
 matches, agree, catch, check, compeer, cope_with, correspond, couple, equal, equalise, equalize, equate, fit, friction_match, gibe, jibe, lucifer, match, mate, mates, meet, oppose, pair, peer, pit, play_off, rival, tally, touch, twin
-weder, wed, wedded
-seines, seine, seine_river
 gatekeeper, door_guard, doorkeeper, doorman, hall_porter, ostiary, porter
 semiology, semiotics
 refuting, controvert, rebut, refute
@@ -12353,7 +12200,6 @@ vestiges, shadow, tincture, trace, vestige
 protoplasm, living_substance
 diction, choice_of_words, enunciation, phraseology, phrasing, verbiage, wording
 orthopedics, orthopaedics
-maligner, backbiter, defamer, libeler, slanderer, traducer, vilifier
 continuities, continuity, persistence
 handbook, enchiridion, vade_mecum
 reordering, reorder
@@ -12362,7 +12208,6 @@ creatures, animal, animate_being, beast, brute, creature, fauna, puppet, tool, w
 cyborgs, bionic_man, bionic_woman, cyborg
 androids, android, humanoid, mechanical_man
 revenue, gross, receipts, tax_income, tax_revenue, taxation
-mater, flat, mat, matt, matte, matted
 peoples, citizenry, hoi_polloi, mass, masses, multitude, people, the_great_unwashed
 coaches, autobus, bus, carriage, charabanc, coach, coach-and-four, double-decker, four-in-hand, handler, jitney, manager, motorbus, motorcoach, omnibus, passenger_car, passenger_vehicle, private_instructor, train, tutor
 intoxications, drunkenness, inebriation, inebriety, insobriety, intoxication, poisoning, tipsiness, toxic_condition
@@ -12403,7 +12248,6 @@ erosions, corroding, corrosion, eating_away, eroding, erosion, wearing, wearing_
 glue, gum, mucilage, paste
 communist, commie, communistic
 papyrus, cyperus_papyrus, egyptian_paper_reed, egyptian_paper_rush, paper_plant, paper_rush
-vehement, fierce, tearing, trigger-happy, violent
 seek, assay, attempt, essay, look_for, search, try
 athletics, athletic_competition, athletic_contest, sport
 fascination, captivation, enchantment, enthrallment
@@ -12418,7 +12262,6 @@ shame, attaint, disgrace, dishonor, dishonour, ignominy, pity
 liberating, emancipate, free, liberate, loose, release, set_free, unloose, unloosen
 privatization, denationalisation, denationalization, privatisation
 redevelopment, overhaul, renovation
-somnolent, slumberous, slumbery, slumbrous
 prepares, cook, develop, devise, educate, fix, gear_up, get_up, groom, machinate, make, organise, organize, prepare, ready, set, set_up, train
 intensifying, compound, deepen, escalate, heighten, intensify, step_up
 footsteps, footfall, footstep, pace, step, stride
@@ -12445,7 +12288,6 @@ innermost, inmost
 academies, academy, honorary_society
 collegiate, collegial
 campaigning, agitate, campaign, candidacy, candidature, crusade, electioneering, fight, political_campaign, press, push, run, take_the_field
-operativer, functional, operative, running, surgical, working
 boating, boat, yachting
 subroutines, function, procedure, routine, subprogram, subroutine
 weblike, lacy, netlike, netted, webbed, webby
@@ -12476,12 +12318,9 @@ hive, beehive
 self-organization, self-organisation
 magnifies, amplify, blow_up, enlarge, exaggerate, hyperbolise, hyperbolize, magnify, overdraw, overstate
 quandaries, dilemma, plight, predicament, quandary
-shower, cascade, exhibitioner, exhibitor, lavish, rain_shower, shower_bath, shower_down
-allen, allen_stewart_konigsberg, ethan_allen, grace_ethel_cecile_rosalie_allen, gracie, gracie_allen, woody_allen
 conveys, bring, carry, channel, communicate, conduct, convey, express, fetch, get, impart, take, transmit
 devolution, degeneration, devolvement
 azygos, azygous
-gastrointestinaler, gastrointestinal, gi
 beige, ecru
 excesses, excess, excessiveness, inordinateness, nimiety, overabundance, overindulgence, surfeit, surplus, surplusage
 discover, attain, break, bring_out, chance_on, chance_upon, come_across, come_upon, describe, detect, disclose, distinguish, divulge, expose, fall_upon, find, find_out, get_a_line, get_wind, get_word, give_away, happen_upon, hear, identify, key, key_out, learn, let_on, let_out, light_upon, name, notice, observe, pick_up, reveal, see, strike, unwrap
@@ -12497,7 +12336,6 @@ contractors, contractile_organ, contractor, declarer
 multivalency, multivalence, polyvalence, polyvalency
 piston, plunger, walter_piston
 sulfonamide, sulfa, sulfa_drug, sulpha
-reaffirmation, reassertion
 depleting, consume, deplete, eat, eat_up, exhaust, run_through, use_up, wipe_out
 granularities, coarseness, graininess, granularity
 supervenes, supervene
@@ -12609,6 +12447,7 @@ cuckoo, bozo, fathead, goof, goofball, goose, jackass, twat, zany
 barnacles, barnacle, barnacle_goose, branta_leucopsis, cirriped, cirripede
 pacific, pacific_ocean, peaceable
 transferring, change, channel, channelise, channelize, reassign, remove, shift, transfer, transmit, transplant, transport, transpose
+elders, elder, elderberry_bush, senior
 observers, beholder, commentator, observer, perceiver, percipient
 expectorant, expectorator
 counsels, advise, advocate, counsel, counseling, counselling, counsellor, counselor, counselor-at-law, direction, guidance, pleader, rede
@@ -12628,8 +12467,6 @@ pt, atomic_number_78, platinum
 lignins, lignin
 incompleteness, rawness
 ride, bait, cod, depend_on, depend_upon, devolve_on, drive, hinge_on, hinge_upon, mount, rag, rally, razz, sit, tantalise, tantalize, taunt, tease, turn_on, twit
-prise, esteem, jimmy, lever, prize, pry, respect, value
-risque, blue, gamey, gamy, juicy, naughty, racy, spicy
 distinguishing, describe, differentiate, discern, discover, distinguish, identify, key, key_out, make_out, mark, name, pick_out, recognise, recognize, secern, secernate, separate, severalise, severalize, signalise, signalize, spot, tell, tell_apart
 supernovae, supernova
 zeros, 0, aught, cipher, cypher, goose_egg, nada, naught, nil, nix, nothing, nought, null, zero, zero_in, zero_point, zilch, zip, zippo
@@ -12639,12 +12476,6 @@ starters, appetiser, appetizer, crank, dispatcher, entrant, fledgeling, fledglin
 hutch, hovel, hut, shack, shanty
 hydrotherapy, hydropathy
 matched, agree, check, cope_with, correspond, couple, equal, equalise, equalize, equate, fit, gibe, jibe, match, mate, meet, oppose, pair, pit, play_off, rival, tally, touch, twin
-vise, bench_vise
-nos, atomic_number_102, no, nobelium
-correctives, corrective, restorative
-sa, storm_troops, sturmabteilung
-lignes, ligne
-appropriation, annexation
 biophysicists, biophysicist
 physiologists, physiologist
 twenty-six, 26, xxvi
@@ -12733,6 +12564,7 @@ cleaner, blank, clean, clean-living, cleanser, cleansing_agent, clear, dry_clean
 high-tech, hi-tech
 drink, beverage, booze, boozing, crapulence, deglutition, drink_in, drinkable, drinking, drunkenness, fuddle, imbibe, pledge, potable, salute, swallow, toast, tope, wassail
 streak, bar, blotch, mottle, run, stripe
+begin, commence, get, get_down, lead_off, menachem_begin, set_about, set_out, start, start_out
 w, atomic_number_74, double-u, due_west, tungsten, watt, west, westward, wolfram
 philosophies, doctrine, ism, philosophical_system, philosophy, school_of_thought
 greenness, green, verdancy, verdure, viridity
@@ -12748,16 +12580,7 @@ guise, pretence, pretense, pretext
 rallying, bait, beat_up, call_up, cod, come_up, drum_up, mobilise, mobilize, muster, muster_up, rag, rally, razz, rebound, ride, summon, tantalise, tantalize, taunt, tease, twit
 suburbs, suburb, suburban_area, suburbia
 etiological, aetiologic, aetiological, etiologic
-gutes, gut
-mayo, mayonnaise
-factores, factor, factor_in, factor_out
-alto, contralto, countertenor
-simples, simple, simpleton
-batas, bata
 bombing, bomb, bombard, bombardment, fail, flunk, flush_it
-temps, temp, temporary, temporary_worker
-attentive, heedful, paying_attention, thoughtful
-interrogations, enquiry, examination, inquiry, interrogation, interrogative, interrogative_sentence, interrogatory, query, question
 canaries, canary, canary_bird, canary_islands, canary_yellow, fink, sneak, sneaker, snitch, snitcher, stool_pigeon, stoolie, stoolpigeon
 finches, finch
 aviaries, aviary, bird_sanctuary, volary
@@ -12839,6 +12662,7 @@ temporal, secular, temporal_role, worldly
 vanilla, vanilla_extract
 fulfil, accomplish, action, carry_out, carry_through, execute, fill, fulfill, live_up_to, meet, satisfy
 axioms, axiom, maxim
+schema, outline, scheme
 surfers, surfboarder, surfer
 ibert, jacques_francois_antoine_ibert
 recipes, formula, recipe
@@ -12875,6 +12699,7 @@ polyurethanes, polyurethan, polyurethane
 hardness, callosity, callousness, harshness, inclemency, insensibility, rigor, rigorousness, rigour, rigourousness, ruggedness, severeness, severity, stiffness, unfeelingness
 polyurethane, polyurethan
 subsidiarity, subordinateness
+perfect, arrant, complete, consummate, double-dyed, everlasting, gross, hone, perfect_tense, perfective, perfective_tense, pure, sodding, staring, stark, thoroughgoing, unadulterated, utter
 microns, micrometer, micron
 pistachio, pistachio_nut, pistachio_tree, pistacia_vera
 teaches, blackbeard, edward_teach, edward_thatch, instruct, learn, teach, thatch
@@ -12919,9 +12744,6 @@ faith, organized_religion, religion, religious_belief, trust
 handicap, balk, baulk, check, deterrent, disability, disable, disablement, hamper, hinder, hinderance, hindrance, impairment, impediment, incapacitate, invalid
 flanks, flank, wing
 imminency, forthcomingness, imminence, imminentness, impendence, impendency
-liters, cubic_decimeter, cubic_decimetre, l, liter, litre
-pedicures, pedicure
-baseer, basal, base, baseborn, humble, immoral, lowly, mean, meanspirited
 sterilizations, sterilisation, sterilization
 murder, bump_off, dispatch, execution, hit, mangle, mutilate, off, polish_off, remove, slay, slaying
 extermination, extinction, liquidation
@@ -13016,7 +12838,6 @@ myrtle, vinca_minor
 hoarseness, gruffness, huskiness
 moult, ecdysis, exuviate, molt, molting, moulting, shed, slough
 swarms, cloud, drove, horde, pour, pullulate, stream, swarm, teem
-hart, lorenz_hart, lorenz_milton_hart, moss_hart, stag
 sincerity, earnestness, serious-mindedness, seriousness, unassumingness
 conserve, conserves, economise, economize, husband, keep_up, maintain, preserve, preserves
 entertainment, amusement
@@ -13038,7 +12859,6 @@ eighteenth, 18th
 appealing, appeal, attract, invoke, likable, likeable, sympathetic
 intuitive, nonrational, visceral
 individualization, individualisation, individuation
-bald, bald-headed, bald-pated, barefaced, denudate, denuded
 oesophagus, esophagus, gorge, gullet
 sectioning, section, segment
 pinkeye, conjunctivitis
@@ -13168,13 +12988,7 @@ bumblebees, bumblebee, humblebee
 pedunculate, stalked
 hierarchical, hierarchal, hierarchic
 harem, hareem, seraglio, serail
-chat, chaffer, chatter, chew_the_fat, chit-chat, chitchat, claver, confab, confabulate, confabulation, gossip, jaw, natter, new_world_chat, old_world_chat, schmoose, schmooze, shoot_the_breeze, visit
 blanket, across-the-board, all-embracing, all-encompassing, all-inclusive, broad, cover, encompassing, extensive, mantle, panoptic, wide
-environ, border, ring, skirt, surround
-signes, bless, contract, ratify, sign, sign_on, sign_up, signal, signalise, signalize, subscribe
-dix, dorothea_dix, dorothea_lynde_dix
-rapport, resonance
-antes, ante
 cubs, cub, greenhorn, lad, laddie, rookie, sonny, sonny_boy, young_carnivore
 anser, genus_anser
 comics, cartoon_strip, comedian, comic, comic_strip, funnies, strip
@@ -13184,6 +12998,9 @@ anthropologists, anthropologist
 foragers, forager
 bobcats, bay_lynx, bobcat, lynx_rufus
 jaguars, felis_onca, jaguar, panther, panthera_onca
+oder, oder_river
+mit, massachusetts_institute_of_technology
+zu, zubird
 humoraler, humoral
 thrombocytes, blood_platelet, platelet, thrombocyte
 kinin, cytokinin
@@ -13206,6 +13023,7 @@ westerners, westerner
 areolae, areola, ring_of_color
 slit, cunt, dent, incision, prick, puss, pussy, scratch, slice, snatch, twat
 copulae, copula, copulative, linking_verb
+pleurae, pleura
 distinctness, discreteness, otherness, separateness, severalty, sharpness
 lameness, claudication, gameness, gimp, gimpiness, limping
 aroma, fragrance, odor, odour, olfactory_property, perfume, scent, smell
@@ -13246,6 +13064,7 @@ bivalve, bivalved, lamellibranch, pelecypod
 waiver, discharge, release
 waivers, discharge, release, waiver
 flexibilities, flexibility, flexibleness, tractability, tractableness
+titrations, titration
 bd, bachelor_of_divinity
 notebooks, notebook, notebook_computer
 printouts, printout
@@ -13257,6 +13076,7 @@ elicit, arouse, draw_out, educe, enkindle, evoke, extract, fire, kindle, provoke
 sixfold, sextuple, six-fold, six_times
 udder, bag
 laddering, ladder, run
+divers, diver, diverse, frogman, loon, plunger, underwater_diver
 dive, diva, diving, honkytonk, nose_dive, nosedive, plunge, plunk, prima_donna
 keratins, ceratin, keratin
 basophile, basophil
@@ -13285,7 +13105,6 @@ tittles, iota, scintilla, shred, smidge, smidgen, smidgeon, smidgin, tittle, whi
 stick, adhere, amaze, baffle, beat, bewilder, bind, bond, cleave, cling, cohere, control_stick, deposit, dumbfound, flummox, get, gravel, hold_fast, joint, joystick, lodge, marijuana_cigarette, mystify, nonplus, peg, perplex, pin, pose, puzzle, reefer, spliff, stand_by, stay, stay_put, stick_around, stick_by, stick_to, sting, stupefy, vex, wedge
 minister, curate, diplomatic_minister, government_minister, minister_of_religion, parson, pastor, rector
 disarray, confusedness, confusion, disorder, disorderliness, mental_confusion, muddiness
-vegetativer, vegetal, vegetational, vegetative, vegetive
 physiography, physical_geography
 landslides, landslide, landslip
 rattus, genus_rattus
@@ -13296,7 +13115,6 @@ empyemas, empyema
 inroads, inroad
 homelands, country_of_origin, fatherland, homeland, mother_country, motherland, native_land
 emesis, disgorgement, puking, regurgitation, vomit, vomiting
-kent, rockwell_kent
 fuller, broad, buckminster_fuller, entire, full, good, melville_w._fuller, melville_weston_fuller, r._buckminster_fuller, replete, richard_buckminster_fuller, total, wide, wide-cut
 tabulation, tabular_matter
 reversals, about-face, black_eye, blow, change_of_mind, flip-flop, policy_change, reversal, reverse, reversion, setback, transposition, turn_around, turnabout, turnaround, volte-face
@@ -13306,9 +13124,7 @@ underlines, emphasise, emphasize, underline, underscore
 motive, motif, motivating, motivation, motivative, motor, need
 interlaces, enlace, entwine, interlace, interlock, intertwine, lace, lock, twine
 flourishing, boom, booming, brandish, expand, flourish, fly_high, palmy, prosper, prospering, prosperous, roaring, thrive, thriving, wave
-gang, bunch, crew, crowd, gang_up, mob, pack, ring, work_party
 lecturers, lector, lecturer, reader
-dank, clammy
 self-sacrifice, selflessness
 affiliates, affiliate, associate, assort, consort
 cryptogram, cryptograph, secret_writing
@@ -13316,15 +13132,6 @@ postscript, addendum, ps, supplement
 visionaries, illusionist, seer, visionary
 greatness, enormousness, grandness, illustriousness, immenseness, immensity, sizeableness, vastness, wideness
 prowess, art, artistry
-signification, import, meaning, significance
-commune, communicate
-juntos, cabal, camarilla, faction, junto
-junto, cabal, camarilla, faction
-tan, bronze, burn, sunburn, suntan, tangent, topaz
-ligature, binder, tying
-lame, cripple, crippled, feeble, game, gimpy, halt, halting, square
-globules, globule
-rouges, blusher, paint, rouge
 cars, auto, automobile, cable_car, car, elevator_car, gondola, machine, motorcar, railcar, railroad_car, railway_car
 symbolism, symbolisation, symbolization
 rubrics, gloss, rubric, statute_title, title
@@ -13348,25 +13155,14 @@ fertilizing, fecundate, feed, fertilise, fertilize, inseminate
 phanerogams, phanerogam, seed_plant, spermatophyte
 carpets, carpet, carpeting, rug
 hummocks, hammock, hillock, hummock, knoll, mound
-oraler, oral, unwritten
-nasales, nasale
-partes, break, break_up, depart, disunite, divide, part, separate, set_forth, set_off, set_out, split, split_up, start, start_out, take_off
-ni, atomic_number_28, nickel
-dos, act, answer, arrange, bash, behave, brawl, cause, coif, coiffe, coiffure, come, department_of_state, disk_operating_system, do, doctor_of_osteopathy, doh, dress, execute, exercise, fare, get_along, make, make_out, manage, perform, practice, practise, serve, set, state, state_department, suffice, united_states_department_of_state, ut
-quart, dry_quart
-pases, pas
+aus, astronomical_unit, atomic_number_79, au, gold
+chats, chaffer, chat, chatter, chew_the_fat, chit-chat, chitchat, claver, confab, confabulate, confabulation, gossip, jaw, natter, new_world_chat, old_world_chat, schmoose, schmooze, shoot_the_breeze, visit
+pour, decant, pelt, pour_out, pullulate, rain_buckets, rain_cats_and_dogs, stream, swarm, teem
 siameses, central_thai, siamese, siamese_cat, siamese_connection, tai, thai
-pu, atomic_number_94, plutonium
-formes, constitute, forge, form, imprint, make, mold, mould, organise, organize, shape, spring, take_form, take_shape, work
-hauteur, arrogance, haughtiness, high-handedness, lordliness
 theology, divinity, theological_system
 literate, literate_person
 womb, uterus
 interrupters, interrupter
-poussins, nicolas_poussin, poussin
-poulet, chicken, volaille
-mayor, city_manager
-plena, plenum
 nemerteans, nemertean, nemertine, proboscis_worm, ribbon_worm
 swamps, deluge, drench, flood, inundate, swamp, swampland
 plug, ballyhoo, chaw, chew, cud, fire_hydrant, fireplug, hack, hoopla, hype, jade, male_plug, nag, plug_away, punch, quid, secure, spark_plug, sparking_plug, stop_up, stopper, stopple, wad
@@ -13394,9 +13190,6 @@ disks, disc, disk, harrow, magnetic_disc, magnetic_disk, phonograph_record, phon
 processors, c.p.u., central_processing_unit, central_processor, cpu, mainframe, processor
 dynasties, dynasty
 crane, grus, harold_hart_crane, hart_crane, stephen_crane, stretch_out
-weil, andre_weil, simone_weil
-jung, carl_gustav_jung, carl_jung
-stabile, immovable, immoveable, unmovable
 lager, laager, lager_beer
 attorney, lawyer
 generals, full_general, general, superior_general
@@ -13418,6 +13211,7 @@ contracts, abbreviate, abridge, compact, compress, concentrate, condense, constr
 watches, ascertain, catch, check, determine, find_out, follow, keep_an_eye_on, learn, look_on, look_out, lookout, lookout_man, observe, picket, scout, see, sentinel, sentry, spotter, take_in, ticker, view, vigil, watch, watch_out, watch_over
 uranium, atomic_number_92, u
 plutonium, atomic_number_94, pu
+heel, blackguard, bounder, cad, dog, hound, list, reheel
 maxilla, maxillary, upper_jaw, upper_jawbone
 essays, assay, attempt, essay, examine, prove, seek, test, try, try_out
 spatialities, spatial_property, spatiality
@@ -13443,6 +13237,7 @@ songs, birdcall, birdsong, call, song, song_dynasty, strain, sung, sung_dynasty,
 answerers, answerer, respondent, responder
 meanwhile, in_the_meantime, interim, lag, meantime
 watch, ascertain, catch, check, determine, find_out, follow, keep_an_eye_on, learn, look_on, look_out, lookout, lookout_man, observe, picket, scout, see, sentinel, sentry, spotter, take_in, ticker, view, vigil, watch_out, watch_over
+resumes, curriculum_vitae, cv, re-start, restart, resume, sketch, sum_up, summarise, summarize, survey, take_up
 instantiations, instantiation
 oracle, prophesier, prophet, seer, vaticinator
 clutters, clutter, clutter_up, fuddle, jumble, mare's_nest, muddle, smother, welter
@@ -13751,6 +13546,7 @@ recruiters, recruiter
 hiring, charter, employ, engage, hire, lease, rent, take
 recruitments, enlisting, recruitment
 pledge, assurance, drink, plight, salute, subscribe, toast, wassail
+appropriation, annexation
 liposuction, suction_lipectomy
 scripture, bible, book, christian_bible, good_book, holy_scripture, holy_writ, sacred_scripture, word, word_of_god
 interrelations, interrelatedness, interrelation, interrelationship
@@ -13809,6 +13605,7 @@ avocation, by-line, hobby, pursuit, sideline, spare-time_activity
 detours, detour, roundabout_way
 detouring, detour
 portfolios, portfolio
+stadium, arena, bowl, sports_stadium
 frauds, dupery, fake, faker, fraud, fraudulence, hoax, humbug, imposter, impostor, pretender, pseud, pseudo, put-on, role_player, sham, shammer
 forever, always, constantly, eternally, everlastingly, evermore, forever_and_a_day, incessantly, perpetually
 forgetting, blank_out, block, bury, draw_a_blank, forget, leave
@@ -13864,7 +13661,6 @@ photography, picture_taking
 popularization, popularisation, vulgarisation, vulgarization
 supervisors, executive_program, supervisor, supervisory_program
 sturdy, hardy, inflexible, stalwart, stout, tough, uncompromising
-positiver, cocksure, confident, confirming, convinced, electropositive, incontrovertible, irrefutable, overconfident, plus, positive, positively_charged, positivist, positivistic, prescribed
 hereinafter, hereafter, hereunder
 deference, complaisance, compliance, compliancy, obligingness, respect, respectfulness
 managements, direction, management
@@ -14053,6 +13849,7 @@ hashes, haschisch, hash, hasheesh, hashish
 overheads, budget_items, command_overhead, command_processing_overhead, command_processing_overhead_time, disk_overhead, operating_cost, operating_expense, overhead, smash, viewgraph
 erasure, expunction, expunging
 tune, air, line, melodic_line, melodic_phrase, melody, strain, tune_up
+mater, flat, mat, matt, matte, matted
 verapamil, calan, isoptin
 indinavir, crixivan
 ritonavir, norvir
@@ -14060,6 +13857,7 @@ statistician, actuary, mathematical_statistician
 formatting, arrange, data_format, data_formatting, format, initialise, initialize
 microchips, chip, micro_chip, microchip, microprocessor_chip, silicon_chip
 consents, accept, consent, go_for
+dies, atomic_number_66, become_flat, break, break_down, buy_the_farm, cash_in_one's_chips, choke, conk, conk_out, croak, decease, dice, die, die_out, drop_dead, dy, dysprosium, exit, expire, fail, give-up_the_ghost, give_out, give_way, go, go_bad, kick_the_bucket, pall, pass, pass_away, perish, pop_off, snuff_it
 awoke, arouse, awake, awaken, come_alive, wake, wake_up, waken
 nemesis, bane, curse, scourge
 emitters, emitter
@@ -14154,8 +13952,6 @@ accelerate, quicken, speed, speed_up
 sulphide, sulfide
 observatory, lookout, lookout_station, observation_tower
 kilometers, kilometer, kilometre, klick, km
-mei, japanese_apricot, prunus_mume
-salon, beauty_parlor, beauty_parlour, beauty_salon, beauty_shop
 equipoise, balance, counterbalance, equilibrium
 compulsion, coercion, irresistible_impulse, obsession
 colonoscopes, colonoscope
@@ -14425,8 +14221,6 @@ misplacement, malposition
 tug, drive, jerk, labor, labour, lug, push, tote, towboat, tower, tugboat
 oasis, haven
 antitumour, anticancer, antineoplastic, antitumor
-oft, frequently, often, oftentimes, ofttimes
-mobiles, mobile, mobile_river
 fumigants, fumigant
 soiling, begrime, bemire, colly, dirty, dirtying, grime, soil, soilure
 pulsing, impulse, pulsate, pulsation, pulse, throb
@@ -14440,11 +14234,8 @@ shoots, blast, bourgeon, buck, burgeon_forth, charge, dart, dash, dissipate, fil
 full-strength, neat, straight
 plantlets, plantlet
 legitimation, legalisation, legalization
-welches, welch, welsh
 benefiting, benefit, do_good, gain, profit
-hypo, hypodermic, hypodermic_syringe, sodium_thiosulfate, sodium_thiosulphate
 radon, atomic_number_86, rn
-trots, clip, crib, jog, lope, pony, trot, trotskyist, trotskyite
 magnetometer, gaussmeter
 discriminative, discriminatory, judicial
 propagations, extension, generation, multiplication, propagation
@@ -14666,6 +14457,7 @@ antitussives, antitussive
 hike, boost, cost_increase, hike_up, hiking, raise, rise, salary_increase, tramp, wage_hike, wage_increase
 hindering, block, blockade, clogging, embarrass, hamper, handicap, hinder, impede, impeding, obstruct, obstructive, stymie, stymy
 resuming, re-start, restart, resume, sum_up, summarise, summarize, take_up
+nos, atomic_number_102, no, nobelium
 outstation, outpost
 epa, environmental_protection_agency
 reaching, accomplish, achieve, arrival, arrive_at, attain, contact, extend_to, gain, get_hold_of, get_through, get_to, give, hand, hit, make, pass, pass_on, progress_to, reach, reach_out, strain, stretch, strive, touch, turn_over
@@ -14677,6 +14469,7 @@ mastery, command, control, domination, subordination, supremacy
 advisor, adviser, consultant
 pedagogical, pedagogic
 ask, call_for, demand, enquire, expect, inquire, involve, necessitate, need, postulate, require, take
+chat, chaffer, chatter, chew_the_fat, chit-chat, chitchat, claver, confab, confabulate, confabulation, gossip, jaw, natter, new_world_chat, old_world_chat, schmoose, schmooze, shoot_the_breeze, visit
 formative, plastic, shaping
 dwell, brood, consist, harp, inhabit, lie, lie_in, live, populate
 interlanguage, koine, lingua_franca
@@ -14688,8 +14481,8 @@ visualize, envision, fancy, figure, image, picture, project, see, visualise
 trophies, prize, trophy
 tutor, coach, private_instructor
 fixes, bushel, cook, define, deposit, desex, desexualise, desexualize, determine, doctor, fasten, fix, fixate, fixing, fixture, furbish_up, gear_up, get, hole, jam, kettle_of_fish, limit, localisation, localization, locating, location, make, mend, mending, mess, muddle, pay_back, pay_off, pickle, posit, prepare, ready, repair, reparation, restore, secure, set, set_up, situate, specify, sterilise, sterilize, touch_on, unsex
-taal, afrikaans, south_african_dutch
 pluralising, pluralise, pluralize
+rapport, resonance
 symbolization, symbol, symbolic_representation, symbolisation, symbolism
 freshmen, entrant, fledgeling, fledgling, fresher, freshman, neophyte, newbie, newcomer, starter
 underline, emphasise, emphasize, underscore
@@ -15091,3 +14884,239 @@ pragmatics, pragmatic, pragmatic_sanction
 consonance, consonant_rhyme, harmoniousness
 disjunctures, disconnectedness, disconnection, disjunction, disjuncture
 suturing, suture
+transfusing, cup, instill, transfuse
+twist, bend, braid, construction, convolute, crook, curve, deform, device, distort, eddy, flex, gimmick, kink, pervert, plait, pull, rick, sophisticate, spin, sprain, squirm, tress, turn, turn_of_events, twine, twirl, twist_around, twisting, whirl, wind, winding, worm, wrench, wrestle, wrick, wriggle, writhe
+shine, beam, effulgence, fall, gleam, glint, glisten, glitter, glow, polish, radiance, radiancy, radiate, reflect, refulgence, refulgency, smooth, smoothen, strike
+guy, blackguard, bozo, cat, guy_cable, guy_rope, guy_wire, hombre, jest_at, laugh_at, make_fun, poke_fun, rib, ridicule, roast
+guatemala, republic_of_guatemala
+pipistrelle, pipistrel, pipistrellus_pipistrellus
+foes, enemy, foe, foeman, opposition
+directs, address, aim, calculate, channelise, channelize, conduct, direct, engineer, guide, head, lead, maneuver, manoeuver, manoeuvre, mastermind, orchestrate, organise, organize, place, point, send, steer, take, take_aim, target, train
+liaisons, affair, affaire, amour, contact, inter-group_communication, intimacy, involvement, liaison, link
+moldiness, must, mustiness
+neuter, alter, castrate, sexless, spay
+haystack, hayrick, rick
+australians, aboriginal_australian, aussie, australian
+melanomas, malignant_melanoma, melanoma
+explorative, exploratory
+rescues, deliver, deliverance, delivery, rescue, saving
+clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover, underground
+arctic, arctic_zone, frigid, galosh, gelid, glacial, golosh, gumshoe, icy, north-polar, north_frigid_zone, polar, rubber
+potentiates, potentiate
+paresthesias, paraesthesia, paresthesia
+fratricide, friendly_fire
+subdue, chasten, conquer, crucify, curb, get_over, inhibit, keep_down, master, mortify, overcome, quash, reduce, repress, stamp_down, subjugate, subordinate, suppress, surmount, tame
+instructs, apprise, apprize, instruct, learn, teach
+jeddah, jed'dah, jidda, jiddah
+eliminate, annihilate, carry_off, decimate, do_away_with, egest, eradicate, excrete, extinguish, get_rid_of, obviate, pass, reject, rid_of, rule_out, winnow_out, wipe_out
+beholder, observer, perceiver, percipient
+attenuate, attenuated, faded, rarefy, weakened
+americas, america, the_states, u.s., u.s.a., united_states, united_states_of_america, us, usa
+watchdogs, guard_dog, watchdog
+groupers, grouper
+dispatch, bump_off, communique, complete, despatch, discharge, expedition, expeditiousness, hit, murder, off, polish_off, remove, send_off, shipment, slay
+restricts, bound, confine, curb, curtail, cut_back, limit, qualify, restrain, restrict, throttle, trammel
+koopmans, tjalling_charles_koopmans, tjalling_koopmans
+unveils, bring_out, reveal, uncover, unveil
+shuttling, shuttle
+noctuidae, family_noctuidae
+measurability, quantifiability
+immunisations, immunisation, immunization
+presenter, bestower, conferrer, donor, giver, sponsor
+yemen, republic_of_yemen
+passerine, passeriform_bird
+ascendancy, ascendance, ascendence, ascendency, control, dominance
+chiroptera, order_chiroptera
+rhinolophidae, family_rhinolophidae
+tempo, pace, pacing
+culicidae, family_culicidae
+carbonization, carbonisation
+changers, auto-changer, changer, modifier, record_changer
+intensive, intensifier
+hopper, grasshopper, ground_ball, groundball, grounder, hop-picker
+squishy, spongelike, spongy, squashy
+aggravate, exacerbate, exasperate, worsen
+cleaves, adhere, cleave, cling, cohere, rive, split, stick
+malaysia, malaya
+stink, fetor, foetor, malodor, malodour, mephitis, reek, stench
+expedition, despatch, dispatch, excursion, expeditiousness, hostile_expedition, jaunt, junket, military_expedition, outing, pleasure_trip, sashay
+meles, genus_meles
+groundnut, apios_americana, apios_tuberosa, earthnut, goober, goober_pea, groundnut_vine, indian_potato, monkey_nut, peanut, potato_bean, wild_bean
+torque, torsion
+depressions, clinical_depression, depression, depressive_disorder, economic_crisis, great_depression, impression, imprint, low, natural_depression, slump
+ruthenium, atomic_number_44, ru
+foresee, anticipate, counter, envision, foreknow, forestall, previse
+exportations, export, exportation, exporting
+languish, ache, fade, pine, pine_away, waste, yearn, yen
+guangzhou, canton, kuangchou, kwangchow
+franchises, dealership, enfranchisement, franchise
+bioscience, life_science
+lunge, hurl, hurtle, lurch, passado, straight_thrust, thrust
+seine, seine_river
+sanctuaries, asylum, bema, chancel, refuge, sanctuary
+le, lupus_erythematosus
+han, han_dynasty
+sur, tyre
+modelings, clay_sculpture, model, modeling, modelling, mold, molding, mould, moulding
+beginner, father, founder, founding_father, initiate, novice, tiro, tyro
+spirochetes, spirochaete, spirochete
+basses, bass, bass_part, bass_voice, basso, freshwater_bass, sea_bass
+en, nut
+cas, atomic_number_20, ca, calcium, calif., california, golden_state
+risque, blue, gamey, gamy, juicy, naughty, racy, spicy
+fin, 5, break_water, cinque, five, fivesome, flipper, little_phoebe, louver, louvre, pentad, phoebe, quint, quintet, quintuplet, tail_fin, tailfin, v
+archaism, archaicism
+labyrinth, inner_ear, internal_ear, maze
+fischer, bobby_fischer, emil_hermann_fischer, hans_fischer, robert_james_fischer
+mousetrap, trap_play
+serpentes, ophidia, suborder_ophidia, suborder_serpentes
+gambles, adventure, chance, gamble, hazard, risk, run_a_risk, take_a_chance, take_chances
+precipitants, precipitant
+homoptera, suborder_homoptera
+taro, cocoyam, colocasia_esculenta, dalo, dasheen, edda, eddo, taro_plant, taro_root
+scincidae, family_scincidae
+golgi, camillo_golgi
+flavor, feel, feeling, flavour, look, nip, relish, sapidity, savor, savour, season, smack, smell, spirit, tang, tone
+surpass, exceed, excel, go_by, go_past, outdo, outgo, outmatch, outperform, outstrip, pass, pass_by, stand_out, surmount, transcend, travel_by
+ephemeroptera, ephemerida, order_ephemerida, order_ephemeroptera
+watchmaker, horologer, horologist
+bicentennial, bicentenary
+alces, genus_alces
+swords, blade, brand, steel, sword
+kitchens, kitchen
+dytiscidae, family_dytiscidae
+lasso, lariat, orlando_di_lasso, reata, riata, roland_de_lassus, rope
+coronary, coronary_thrombosis
+malignances, malignance, malignancy, malignity
+moderner, advanced, forward-looking, innovative, mod, modern, moderne, modernistic, new
+complacency, complacence, self-complacency, self-satisfaction
+candidacy, campaigning, candidature, electioneering, political_campaign
+geriatrics, gerontology
+colosseum, amphitheatrum_flavium
+iran, islamic_republic_of_iran, persia
+enduring, abide, abiding, bear, brave, brave_out, brook, die_hard, digest, endure, go, hold_out, hold_up, imperishable, last, live, live_on, long-suffering, persist, prevail, put_up, run, stand, stick_out, stomach, suffer, support, survive, tolerate, wear, weather
+alleviates, alleviate, assuage, ease, facilitate, palliate, relieve
+accelerating, accelerate, quicken, speed, speed_up
+petabytes, pb, pebibyte, petabyte, pib
+manipulators, manipulator, operator
+schwann, theodor_schwann
+dromedary, arabian_camel, camelus_dromedarius
+deck, adorn, beautify, bedeck, bedight, coldcock, deck_of_cards, decorate, dump, embellish, floor, grace, knock_down, pack_of_cards
+tale, fib, narration, narrative, story, taradiddle, tarradiddle
+fuss, ado, bicker, bickering, bother, bustle, dither, flap, flurry, fret, hassle, hustle, mother, niggle, overprotect, pettifoggery, pother, spat, squabble, stir, tiff, tizzy, trouble
+sars, severe_acute_respiratory_syndrome
+mutating, mutate
+spotlights, foreground, glare, highlight, limelight, play_up, public_eye, spot, spotlight
+peril, danger, endanger, endangerment, expose, hazard, imperil, jeopardise, jeopardize, jeopardy, menace, queer, risk, riskiness, scupper, threaten
+mongers, bargainer, dealer, hawk, huckster, monger, peddle, pitch, trader, vend
+sharpens, focalise, focalize, focus, heighten, point, sharpen, taper
+edentate, edental, edentulate
+mustelidae, family_mustelidae
+erratum, literal, literal_error, misprint, typo, typographical_error
+grippe, flu, influenza
+les, le, lupus_erythematosus
+litigations, judicial_proceeding, litigation
+hiv, human_immunodeficiency_virus
+endodontics, endodontia
+sleepy, sleepy-eyed, sleepyheaded
+wraith, ghost, shade, specter, spectre, spook
+resurrections, christ's_resurrection, resurrection, resurrection_of_christ
+ida, international_development_association
+spectators, looker, spectator, spectator_pump, viewer, watcher, witness
+yeah, yea
+mammalia, class_mammalia
+tads, shade, tad
+telegram, wire
+connecting, associate, colligate, connect, get_in_touch, join, link, link_up, plug_in, plug_into, relate, tie, tie_in, touch_base, unite
+watching, ascertain, catch, check, determine, find_out, follow, keep_an_eye_on, learn, look_on, look_out, observance, observation, observe, see, take_in, view, watch, watch_out, watch_over
+cyprinus, genus_cyprinus
+climatologists, climatologist
+antique, age-old, antiquate, demode, ex, gaffer, old-fashioned, old-hat, old-timer, old_geezer, oldtimer, outmoded, passe, passee
+workbench, bench, work_bench
+signification, import, meaning, significance
+puces, puce
+interpretative, interpretive
+converging, converge, convergence, convergency, meet
+romance, butterfly, chat_up, coquet, coquette, court, dally, flirt, latin, latinian_language, love_affair, love_story, mash, philander, romance_language, romanticism, solicit, woo
+canidae, family_canidae
+felidae, family_felidae
+cetacea, order_cetacea
+mango, mangifera_indica, mango_tree
+rodentia, order_rodentia
+vespidae, family_vespidae
+kitten, kitty
+villain, baddie, scoundrel
+norway, kingdom_of_norway, noreg, norge
+mire, bog_down, entangle, get_stuck, grind_to_a_halt, morass, muck, muck_up, mud, quag, quagmire, slack, slop
+cry, battle_cry, blazon_out, call, call_out, cry_out, exclaim, holler, hollo, outcry, rallying_cry, scream, shout, shout_out, squall, vociferation, war_cry, watchword, weep, yell
+endings, close, closing, conclusion, end, ending, finish, termination
+transpositions, heterotaxy, permutation, replacement, reversal, substitution, switch, transposition
+prise, esteem, jimmy, lever, prize, pry, respect, value
+stony, bouldered, bouldery, flint, flinty, granitelike, granitic, obdurate, rocklike, rocky
+recent, holocene, holocene_epoch, late, recent_epoch
+small, belittled, diminished, humble, little, low, lowly, minor, minuscule, modest, pocket-size, pocket-sized, small-scale
+negotiating, negociate, negotiate, talk_terms
+symmetric, symmetrical
+rinses, gargle, rinse, rinse_off, rinsing, wash
+offences, crime, criminal_offence, criminal_offense, discourtesy, law-breaking, offence, offense, offensive, offensive_activity, umbrage
+icing, frost, frosting, ice, icing_the_puck
+successors, heir, replacement, successor
+preface, foreword, introduce, precede, premise, prolusion
+being, be, beingness, comprise, constitute, cost, embody, equal, exist, existence, follow, live, make_up, organism, personify, represent
+rewritings, revising, rewriting
+does, act, answer, arrange, behave, cause, coif, coiffe, coiffure, come, department_of_energy, do, doe, dress, energy, energy_department, execute, exercise, fare, get_along, make, make_out, manage, perform, practice, practise, serve, set, suffice
+go, adam, become, belong, blend, blend_in, break, break_down, buy_the_farm, cash_in_one's_chips, choke, conk, conk_out, crack, cristal, croak, decease, depart, die, disco_biscuit, drop_dead, ecstasy, endure, exit, expire, extend, fail, fit, fling, function, get, get_going, give-up_the_ghost, give_out, give_way, go_away, go_bad, go_game, hold_out, hold_up, hug_drug, kick_the_bucket, last, lead, live, live_on, locomote, move, offer, operate, pass, pass_away, perish, plump, pop_off, proceed, rifle, run, run_low, run_short, snuff_it, sound, spell, start, survive, tour, travel, turn, whirl, work, x, xtc
+evaluating, appraise, assess, evaluate, judge, measure, pass_judgment, valuate, value
+jays, jay, john_jay
+canadians, canadian, canadian_river
+melodies, air, line, melodic_line, melodic_phrase, melody, strain, tonal_pattern, tune
+dictators, authoritarian, dictator, potentate
+judaism, hebraism, jewish_religion
+maths, math, mathematics
+richer, ample, copious, deep, fat, fertile, full-bodied, plenteous, plentiful, productive, racy, rich, robust
+mated, checkmate, copulate, couple, entangle, felt, felt_up, mat, mat_up, match, mate, matt-up, matte, matte_up, pair, paired, snarl, tangle, twin
+pendant, chandelier, dependent, pendent
+dualities, dichotomy, duality, wave-particle_duality
+compiling, accumulate, amass, collect, compilation, compile, compose, hoard, pile_up, roll_up
+hams, gammon, ham, ham_actor, ham_it_up, jambon, overact, overplay
+exploiting, exploit, overwork, tap, work
+coupled, conjugate, conjugated, copulate, couple, couple_on, couple_up, joined, linked, match, mate, pair, pair_off, partner_off, twin
+temps, temp, temporary, temporary_worker
+talking, babble, babble_out, blab, blab_out, lecture, let_the_cat_out_of_the_bag, mouth, peach, sing, speak, spill, spill_the_beans, talk, tattle, utter, verbalise, verbalize
+extracting, distil, distill, draw_out, educe, elicit, evoke, excerpt, express, extract, press_out, pull, pull_out, pull_up, take_out
+lemons, citrus_limon, gamboge, lemon, lemon_tree, lemon_yellow, maize, stinker
+rescuers, deliverer, recoverer, rescuer, saver, savior, saviour
+ringer, bell_ringer, clone, dead_ringer, toller
+zombies, automaton, living_dead, snake_god, zombi, zombi_spirit, zombie, zombie_spirit
+spy, descry, espy, sight, sleuth, snoop, spot, stag, undercover_agent
+us, america, atomic_number_92, the_states, u, u.s., u.s.a., united_states, united_states_of_america, uracil, uranium, usa
+delusion, hallucination, head_game, illusion, psychotic_belief
+tutoring, tutor
+cosmology, cosmogeny, cosmogony
+struggles, battle, clamber, conflict, contend, fight, scramble, shin, shinny, skin, sputter, struggle
+zebras, zebra
+sequoia, redwood
+entailment, deduction, implication
+chronicle, account, history, story
+inflexions, inflection, inflexion
+same, lapp, lapplander, like, saame, saami, sami
+macer, mace, macebearer
+decimals, decimal, decimal_fraction
+outrunning, outrun
+analyzing, analyse, analyze, break_down, canvas, canvass, dissect, examine, psychoanalyse, psychoanalyze, study, take_apart
+know, acknowledge, bang, be_intimate, bed, bonk, cognise, cognize, do_it, eff, experience, fuck, get_it_on, get_laid, have_a_go_at_it, have_intercourse, have_it_away, have_it_off, have_sex, hump, jazz, lie_with, live, love, make_love, make_out, recognise, recognize, roll_in_the_hay, screw, sleep_together, sleep_with
+fighters, attack_aircraft, battler, belligerent, champion, combatant, fighter, fighter_aircraft, hero, paladin, scrapper
+double, bivalent, double_over, double_up, doubled, doubling, doubly, dual, duple, duplicate, forked, image, look-alike, reduplicate, repeat, replicate, stunt_man, stunt_woman, three-fold, threefold, treble, twice, two-bagger, two-base_hit, two-baser, two-fold, twofold
+fights, agitate, battle, campaign, combat, competitiveness, conflict, contend, crusade, defend, engagement, fight, fight_back, fight_down, fighting, oppose, press, push, scrap, struggle
+pushes, advertise, advertize, agitate, bear_on, button, campaign, crowd, crusade, drive, energy, fight, force, get-up-and-go, labor, labour, press, promote, push, push_button, pushing, thrust, tug
+infarctions, infarct, infarction
+metabolizing, metabolise, metabolize
+me, maine, pine_tree_state
+easing, allay, alleviate, alleviation, comfort, ease, easement, facilitate, moderation, relief, relieve, still
+russia, russian_federation, russian_soviet_federated_socialist_republic, soviet_russia, soviet_union, union_of_soviet_socialist_republics, ussr
+calm, becalm, calm_air, calm_down, calmness, chill_out, composure, cool_it, cool_off, equanimity, lull, quiet, quieten, sedate, serene, settle_down, simmer_down, steady, still, tranquil, tranquilize, tranquillise, tranquillize, unagitated
+derelictions, delinquency, dereliction, willful_neglect
+contraception, contraceptive_method
+parathyroid, parathyroid_gland
+self-examination, introspection, self-contemplation
+mending, bushel, doctor, fix, fixing, fixture, furbish_up, heal, mend, repair, reparation, restore, touch_on

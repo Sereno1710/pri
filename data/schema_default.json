@@ -26,14 +26,7 @@
             "name":"doc_id",
             "type":"string",
             "indexed":true
-        },
-        {
-            "name": "vector",
-            "type": "covidVector",
-            "indexed": true,
-            "stored": true
         }
-
     ]
 }
 
