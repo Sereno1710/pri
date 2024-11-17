@@ -9,7 +9,9 @@
                 },
                 "filters":[
                     {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
-                    {"class":"solr.LowerCaseFilterFactory"}
+                    {"class":"solr.LowerCaseFilterFactory"},
+                    {"class": "solr.StopFilterFactory", "words":"stopwords.txt", "ignoreCase":true},
+                    {"class":"solr.SynonymGraphFilterFactory", "synonyms":"synonyms.txt", "expand":true}
                 ]
             },
             "queryAnalyzer":{
@@ -18,7 +20,9 @@
                 },
                 "filters":[
                     {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
-                    {"class":"solr.LowerCaseFilterFactory"}
+                    {"class":"solr.LowerCaseFilterFactory"},
+                    {"class": "solr.StopFilterFactory", "words":"stopwords.txt", "ignoreCase":true},
+                    {"class":"solr.SynonymGraphFilterFactory", "synonyms":"synonyms.txt", "expand":true}
                 ]
             }
         },
@@ -29,6 +33,7 @@
             "similarityFunction": "cosine",
             "knnAlgorithm": "hnsw"
         }
+
     ],
     "add-field": [
         {
@@ -55,4 +60,3 @@
 
     ]
 }
-
