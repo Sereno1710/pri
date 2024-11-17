@@ -4,6 +4,8 @@ docker run --name pri_solr -d -p 8983:8983 -v "/mnt/c/Users/Diogo Monteiro/Deskt
 # docker run --name pri_solr -d -p 8983:8983 -v "C:\Users\User\OneDrive\Documentos\PRI\pri/data:/data" solr
 
 #docker run --name pri_solr -d -p 8983:8983 -v "C:\Users\sjose\OneDrive\Documentos\pri2024/data:/data" solr
+#docker run --name pri_solr -d -p 8983:8983 -v "C:\Users\João Longras\Desktop\M.IA\PRI\pri/data:/data" solr
+
 sleep(3)
 docker exec pri_solr solr create_core -c covid
 
