@@ -1,5 +1,5 @@
 {
-    "query": "(title:(covid)) AND (title:(covid))",
+    "query": "(title:(covid)) AND (abstract:(covid))",
 "fields": "doc_id, score",
 "params": {
     "defType": "edismax"
