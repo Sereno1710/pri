@@ -1,34 +1,5 @@
 {
 	"add-field-type": [
-        {
-            "name":"text",
-            "class":"solr.TextField",
-            "indexAnalyzer":{
-                "tokenizer":{
-                    "class":"solr.StandardTokenizerFactory"
-                },
-                "filters":[
-                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
-                    {"class":"solr.LowerCaseFilterFactory"}
-                ]
-            },
-            "queryAnalyzer":{
-                "tokenizer":{
-                    "class":"solr.StandardTokenizerFactory"
-                },
-                "filters":[
-                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
-                    {"class":"solr.LowerCaseFilterFactory"}
-                ]
-            }
-        },
-        {
-            "name": "courseVector",
-            "class": "solr.DenseVectorField",
-            "vectorDimension": 768,
-            "similarityFunction": "cosine",
-            "knnAlgorithm": "hnsw"
-        }
     ],
     "add-field": [
         {
@@ -47,8 +18,18 @@
             "indexed": true
         },
         {
+            "name": "doi",
+            "type": "string",
+            "indexed": true
+        },
+        {
+            "name":"doc_id",
+            "type":"string",
+            "indexed":true
+        },
+        {
             "name": "vector",
-            "type": "courseVector",
+            "type": "covidVector",
             "indexed": true,
             "stored": true
         }

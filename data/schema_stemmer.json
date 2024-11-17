@@ -27,7 +27,7 @@
             }
         },
         {
-            "name": "courseVector",
+            "name": "covidVector",
             "class": "solr.DenseVectorField",
             "vectorDimension": 768,
             "similarityFunction": "cosine",
@@ -52,8 +52,18 @@
             "indexed": true
         },
         {
+            "name": "doi",
+            "type": "string",
+            "indexed": true
+        },
+        {
+            "name":"doc_id",
+            "type":"string",
+            "indexed":true
+        },
+        {
             "name": "vector",
-            "type": "courseVector",
+            "type": "covidVector",
             "indexed": true,
             "stored": true
         }
