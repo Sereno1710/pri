@@ -1298,7 +1298,7 @@ monoclonal, monoclonal_antibody
 rhesus, macaca_mulatta, rhesus_monkey
 macaques, macaque
 guinea, dago, french_guinea, ginzo, greaseball, guinea_fowl, numida_meleagris, republic_of_guinea, wop
-pigs, bull, cop, copper, devour, farrow, fuzz, grunter, guttle, hog, pig, pig_bed, pig_it, raven, slob, sloven, slovenly_person, squealer, sus_scrofa
+pigs, bull, cop, copper, devour, farrow, fuzz, grunter, guttle, hog, pig, pig_bed, pig_it, raven, slob, sloven, slovenly_person, squealer, sus_scrofa, swine
 animal, animate_being, beast, brute, carnal, creature, fauna, fleshly, sensual
 inability, unfitness
 escape, break_away, break_loose, bunk, dodging, elude, escape_cock, escape_valve, escapism, evasion, flight, fly_the_coop, get_away, get_by, get_off, get_out, head_for_the_hills, hightail_it, lam, leak, leakage, miss, outflow, relief_valve, run, run_away, safety_valve, scarper, scat, take_to_the_woods, turn_tail
