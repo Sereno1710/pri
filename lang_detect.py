@@ -26,7 +26,8 @@ data = data[data['detected_language'] == 'en']
 unique_languages = data['detected_language'].value_counts()
 print(unique_languages)
 
-
+data = data.drop(columns=['detected_language'])
+os.chdir('..')
 data.to_csv('covid_dataset_preprocessed.csv', index=False)
 
 
