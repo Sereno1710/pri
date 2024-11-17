@@ -64,8 +64,7 @@
         {
             "name": "vector",
             "type": "covidVector",
-            "indexed": true,
-            "stored": true
+            "indexed": true
         }
 
     ]
