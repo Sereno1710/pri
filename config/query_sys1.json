@@ -1,7 +1,9 @@
 {
-    "query": "(title:(covid)) AND (title:(covid))",
-"fields": "doc_id, score",
-"params": {
-    "defType": "edismax"
-}
+    "query": "((title:(fever) OR title:(fatigue)) AND title:(influenza)) OR ((abstract:(fever) OR abstract:(fatigue)) AND abstract:(influenza))",
+    "fields": "doc_id, score",
+    "params": {
+        "defType": "edismax",
+        "start": 0,
+        "rows": 30
+    }
 }
