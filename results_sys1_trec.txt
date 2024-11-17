@@ -1,0 +1,10 @@
+1 Q0 ['6txh7jgc'] 1 4.550214 run0
+0 Q0 ['356vat73'] 2 4.4379563 run0
+0 Q0 ['lrd0jm9i'] 3 4.4379563 run0
+0 Q0 ['e19cldqc'] 4 4.2480736 run0
+0 Q0 ['kgzegwon'] 5 4.2417893 run0
+0 Q0 ['xkv6j56h'] 6 4.2417893 run0
+0 Q0 ['8kqhvxlz'] 7 4.2417893 run0
+0 Q0 ['kfrhwsjb'] 8 4.2417893 run0
+0 Q0 ['cp447b2c'] 9 4.2417893 run0
+0 Q0 ['mjflvkc4'] 10 4.156084 run0
