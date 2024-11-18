@@ -18,9 +18,9 @@ def get_query_embedding(query_text):
 def solr_knn_query(endpoint, collection, embedding):
     url = f"{endpoint}/{collection}/select"
     data = {
-        "q": f"{{!knn f=vector topK=10}}{embedding}",
+        "q": f"{{!knn f=vector topK=30}}{embedding}",
         "fl": "doc_id,title,abstract,score",
-        "rows": 10,
+        "rows": 30,
         "wt": "json"
     }
     headers = {

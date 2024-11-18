@@ -12,8 +12,6 @@ docker exec pri_solr solr delete -c covid
 
 docker exec pri_solr solr create_core -c covid
 
-docker cp stop_words.txt pri_solr:/var/solr/data/covid/conf
-
 docker exec -it pri_solr bash
 curl -X POST -H 'Content-type: application/json' --data-binary "@/data/schema_semantic.json" "http://localhost:8983/solr/covid/schema" &
 
