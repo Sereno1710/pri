@@ -1,4 +1,6 @@
 import requests
+import json
+import sys
 from transformers import AutoTokenizer
 from adapters import AutoAdapterModel
 
@@ -43,6 +45,11 @@ def display_results(results):
 
 
 def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 query_normal.py <output_file_path>")
+        sys.exit(1)
+
+    output_file_path = sys.argv[1]
     solr_endpoint = "http://localhost:8983/solr"
     collection = "covid"
     query_text = input("Enter your query: ")
@@ -51,6 +58,8 @@ def main():
     try:
         results = solr_knn_query(solr_endpoint, collection, query_embedding)
         display_results(results)
+        with open(output_file_path, "w") as file:
+            json.dump({"response": {"docs": results.get("response", {}).get("docs", [])}}, file, indent=2)
     except requests.HTTPError as e:
         print(f"Error {e.response.status_code}: {e.response.text}")
 
