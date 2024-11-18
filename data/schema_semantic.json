@@ -45,12 +45,12 @@
         {
             "name": "date",
             "type": "string",
-            "indexed": true
+            "indexed": false
         },
         {
             "name": "doi",
             "type": "string",
-            "indexed": true
+            "indexed": false
         },
         {
             "name":"doc_id",
