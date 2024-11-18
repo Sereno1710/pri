@@ -6,6 +6,7 @@ def solr_text_query(endpoint, collection, query_text):
     url = f"{endpoint}/{collection}/select"
     data = {
         "q": query_text,
+        "q.op": "AND",
         "fl": "doc_id,title,abstract,score",
         "defType": "edismax",
         "qf": "title^3 abstract^2",

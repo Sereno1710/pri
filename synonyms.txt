@@ -439,7 +439,7 @@ pesticides, pesticide
 interaction, fundamental_interaction
 compounds, chemical_compound, combine, compound, deepen, heighten, intensify
 emergence, egress, egression, emersion, growth, issue, outgrowth
-influenza, flu, grippe
+influenza, flu, grippe, h1n1
 man, adult_male, gentleman, gentleman's_gentleman, homo, human, human_being, human_beings, human_race, humanity, humankind, humans, isle_of_man, mankind, military_man, military_personnel, piece, serviceman, valet, valet_de_chambre, world
 bioterrorism, biological_terrorism
 emergency, emergency_brake, exigency, hand_brake, parking_brake, pinch
