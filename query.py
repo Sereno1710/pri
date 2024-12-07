@@ -1,6 +1,4 @@
 import requests
-import json
-import sys
 import cohere
 from transformers import AutoTokenizer
 from adapters import AutoAdapterModel
@@ -20,9 +18,9 @@ def get_query_embedding(query_text):
 def solr_knn_query(endpoint, collection, embedding):
     url = f"{endpoint}/{collection}/select"
     data = {
-        "q": f"{{!knn f=vector topK=10}}{embedding}",
-        "fl": "doc_id,title,abstract",
-        "rows": 10,
+        "q": f"{{!knn f=vector topK=30}}{embedding}",
+        "fl": "doc_id,title,abstract,score",
+        "rows": 30,
         "wt": "json"
     }
     headers = {
@@ -32,28 +30,31 @@ def solr_knn_query(endpoint, collection, embedding):
     response.raise_for_status()
     return response.json()
 
-def get_relevant_docs(query_text, results):
-    docs = results.get("response", {}).get("docs", [])
-    if not docs:
-        print("No results found.")
-        return []
-
-    prompt = f"Identify the relevant documents based on their relevance to the query: '{query_text}'. Only return the doc_ids of the relevant documents, each on a new line.\n\n"
-    for doc in docs:
-        prompt += f"Document ID: {doc.get('doc_id')}\nTitle: {doc.get('title')}\nAbstract: {doc.get('abstract')}\n\n"
-
-    response = co.chat(
-        message=prompt,
-        model="command",
-        temperature=0.3
+def get_relevant_docs_rerank(query_text, docs):   
+    doc_texts = [
+        f"{doc.get('title', '')} {doc.get('abstract', '')}"
+        for doc in docs
+    ]
+    
+    results = co.rerank(
+        model='rerank-v3.5',
+        query=query_text,
+        documents=doc_texts,
+        top_n=10
     )
-    relevant_doc_ids = response.text.split('\n')
-    return [doc_id.strip() for doc_id in relevant_doc_ids if doc_id.strip()]
 
-def rerank_docs(relevant_doc_ids, docs):
-    relevant_docs = [doc for doc in docs if doc.get('doc_id') in relevant_doc_ids]
-    non_relevant_docs = [doc for doc in docs if doc.get('doc_id') not in relevant_doc_ids]
-    return relevant_docs + non_relevant_docs
+    reranked_docs = [
+        {
+            "doc_id": docs[result.index].get('doc_id'),
+            "title": docs[result.index].get('title'),
+            "abstract": docs[result.index].get('abstract'),
+            "score": result.relevance_score
+        }
+        for result in results.results
+    ]
+
+    return reranked_docs
+
 
 def display_results(docs):
     if not docs:
@@ -64,6 +65,7 @@ def display_results(docs):
         print(f"Document ID: {doc.get('doc_id')}")
         print(f"Title: {doc.get('title')}")
         print(f"Abstract: {doc.get('abstract')}")
+        print(f"Score: {doc.get('score')}")
         print("\n" + "-" * 50 + "\n")
 
 def main():
@@ -71,12 +73,11 @@ def main():
     collection = "covid"
     query_text = input("Enter your query: ")
     query_embedding = get_query_embedding(query_text)
+
     try:
         results = solr_knn_query(solr_endpoint, collection, query_embedding)
-        relevant_doc_ids = get_relevant_docs(query_text, results)
-        print(relevant_doc_ids)
         docs = results.get("response", {}).get("docs", [])
-        reranked_docs = rerank_docs(relevant_doc_ids, docs)
+        reranked_docs = get_relevant_docs_rerank(query_text, docs)
         display_results(reranked_docs)
     except requests.HTTPError as e:
         print(f"Error {e.response.status_code}: {e.response.text}")
