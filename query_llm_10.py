@@ -20,9 +20,9 @@ def get_query_embedding(query_text):
 def solr_knn_query(endpoint, collection, embedding):
     url = f"{endpoint}/{collection}/select"
     data = {
-        "q": f"{{!knn f=vector topK=30}}{embedding}",
-        "fl": "doc_id,title,abstract,score",
-        "rows": 30,
+        "q": f"{{!knn f=vector topK=10}}{embedding}",
+        "fl": "doc_id,title,abstract",
+        "rows": 10,
         "wt": "json"
     }
     headers = {
@@ -32,31 +32,23 @@ def solr_knn_query(endpoint, collection, embedding):
     response.raise_for_status()
     return response.json()
 
-def get_relevant_docs(query_text, results, batch_size=5):
+def get_relevant_docs(query_text, results):
     docs = results.get("response", {}).get("docs", [])
     if not docs:
         print("No results found.")
         return []
 
-    relevant_doc_ids = []
-    for i in range(0, len(docs), batch_size):
-        batch_docs = docs[i:i+batch_size]
-        prompt = f"""
-        Query: '{query_text}'
-        List the document IDs of relevant documents below. Only one document ID per line. Do not add any other text.
-        """
-        for doc in batch_docs:
-            prompt += f"Document ID: {doc.get('doc_id')}\nTitle: {doc.get('title')}\nAbstract: {doc.get('abstract')}\n\n"
+    prompt = f"Identify the relevant documents based on their relevance to the query: '{query_text}'. Only return the doc_ids of the relevant documents, each on a new line.\n\n"
+    for doc in docs:
+        prompt += f"Document ID: {doc.get('doc_id')}\nTitle: {doc.get('title')}\nAbstract: {doc.get('abstract')}\n\n"
 
-        response = co.chat(
-            message=prompt,
-            model="command",
-            temperature=0.3
-        )
-        batch_relevant_doc_ids = response.text.split('\n')
-        relevant_doc_ids.extend([doc_id.strip() for doc_id in batch_relevant_doc_ids if doc_id.strip()])
-    
-    return relevant_doc_ids
+    response = co.chat(
+        message=prompt,
+        model="command",
+        temperature=0.3
+    )
+    relevant_doc_ids = response.text.split('\n')
+    return [doc_id.strip() for doc_id in relevant_doc_ids if doc_id.strip()]
 
 def rerank_docs(relevant_doc_ids, docs):
     relevant_docs = [doc for doc in docs if doc.get('doc_id') in relevant_doc_ids]
@@ -75,16 +67,10 @@ def display_results(docs):
         print("\n" + "-" * 50 + "\n")
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 query_normal.py <output_file_path>")
-        sys.exit(1)
-
-    output_file_path = sys.argv[1]
     solr_endpoint = "http://localhost:8983/solr"
     collection = "covid"
     query_text = input("Enter your query: ")
     query_embedding = get_query_embedding(query_text)
-
     try:
         results = solr_knn_query(solr_endpoint, collection, query_embedding)
         relevant_doc_ids = get_relevant_docs(query_text, results)
@@ -92,8 +78,6 @@ def main():
         docs = results.get("response", {}).get("docs", [])
         reranked_docs = rerank_docs(relevant_doc_ids, docs)
         display_results(reranked_docs)
-        with open(output_file_path, "w") as file:
-            json.dump({"response": {"docs": reranked_docs}}, file, indent=2)
     except requests.HTTPError as e:
         print(f"Error {e.response.status_code}: {e.response.text}")
 
