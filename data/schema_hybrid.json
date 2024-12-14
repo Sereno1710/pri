@@ -1,0 +1,71 @@
+{
+	"add-field-type": [
+        {
+            "name":"text",
+            "class":"solr.TextField",
+            "indexAnalyzer":{
+                "tokenizer":{
+                    "class":"solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
+                    {"class":"solr.LowerCaseFilterFactory"},
+                    {"class": "solr.StopFilterFactory", "words":"stopwords.txt", "ignoreCase":true},
+                    {"class":"solr.SynonymGraphFilterFactory", "synonyms":"synonyms.txt", "ignoreCase": "true", "expand":true}
+                ]
+            },
+            "queryAnalyzer":{
+                "tokenizer":{
+                    "class":"solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
+                    {"class":"solr.LowerCaseFilterFactory"},
+                    {"class": "solr.StopFilterFactory", "words":"stopwords.txt", "ignoreCase":true},
+                    {"class":"solr.SynonymGraphFilterFactory", "synonyms":"synonyms.txt", "ignoreCase": "true", "expand":true}
+                ]
+            }
+        },
+        {
+            "name": "covidVector",
+            "class": "solr.DenseVectorField",
+            "vectorDimension": 768,
+            "similarityFunction": "cosine",
+            "knnAlgorithm": "hnsw"
+        }
+
+    ],
+    "add-field": [
+        {
+            "name": "title",
+            "type": "text",
+            "indexed": true
+        },
+        {
+            "name": "abstract",
+            "type": "text",
+            "indexed": true
+        },
+        {
+            "name": "date",
+            "type": "string",
+            "indexed": false
+        },
+        {
+            "name": "doi",
+            "type": "string",
+            "indexed": false
+        },
+        {
+            "name":"doc_id",
+            "type":"string",
+            "indexed":true
+        },
+        {
+            "name": "vector",
+            "type": "covidVector",
+            "indexed": true
+        }
+
+    ]
+}
